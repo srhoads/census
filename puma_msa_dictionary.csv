@@ -11,12 +11,17 @@ al,,,AL-00300,AL-26620
 al,Huntsville (N)+Madison (E) Cities PUMA,Huntsville/AL,AL-00301,AL-26620
 al,Huntsville City (Central+S) PUMA,Huntsville/AL,AL-00302,AL-26620
 al,,,AL-00400,AL-11500
+al,,"Scottsboro, AL Micro Area",AL-00400,AL-42460
+al,,"Fort Payne, AL Micro Area",AL-00400,AL-22840
 al,Marshall+Madison (SE) Counties-Huntsville City (Far SE) PUMA,Huntsville/AL,AL-00500,AL-26620
+al,,"Albertville, AL Micro Area",AL-00500,AL-10700
+al,,"Scottsboro, AL Micro Area",AL-00500,AL-42460
 al,Morgan+Lawrence Counties-Decatur City PUMA,Decatur/AL,AL-00600,AL-19460
 al,,,AL-00700,AL-22520
 al,,,AL-00700,AL-13820
 al,,,AL-00700,AL-46220
 al,,,AL-00700,AL-26620
+al,,"Cullman, AL Micro Area",AL-00700,AL-18980
 al,St Clair+Blount Counties PUMA,Birmingham-Hoover/AL,AL-00800,AL-13820
 al,Etowah County PUMA,Gadsden/AL,AL-00900,AL-23460
 al,,,AL-00901,AL-13820
@@ -28,6 +33,7 @@ al,,,AL-01000,AL-13820
 al,,,AL-01000,AL-23460
 al,,,AL-01000,AL-11500
 al,,,AL-01000,AL-46220
+al,,"Fort Payne, AL Micro Area",AL-01000,AL-22840
 al,Calhoun County PUMA,Anniston-Oxford-Jacksonville/AL,AL-01100,AL-11500
 al,Shelby County PUMA,Birmingham-Hoover/AL,AL-01200,AL-13820
 al,,,AL-01300,AL-13820
@@ -53,8 +59,10 @@ al,,,AL-02300,AL-33660
 al,,,AL-02300,AL-13820
 al,,,AL-02300,AL-33860
 al,,,AL-02300,AL-20020
+al,,"Enterprise, AL Micro Area",AL-02300,AL-21460
 al,Russell/Pike/Barbour/Macon+Bullock Counties PUMA,Columbus/GA-AL,AL-02400,AL-17980
 al,Houston/Dale/Geneva+Henry Counties-Dothan City PUMA,Dothan/AL,AL-02500,AL-20020
+al,,"Enterprise, AL Micro Area",AL-02500,AL-21460
 al,Baldwin County PUMA,Daphne-Fairhope-Foley/AL,AL-02600,AL-19300
 al,Mobile City (E) PUMA,Mobile/AL,AL-02701,AL-33660
 al,Mobile City (W) PUMA,Mobile/AL,AL-02702,AL-33660
@@ -62,6 +70,7 @@ al,Mobile County (Outer)-Prichard City/Tillmans Corner+Saraland City PUMA,Mobile
 ar,Benton County PUMA,Fayetteville-Springdale-Rogers/AR-MO,AR-00100,AR-22220
 ar,Washington County PUMA,Fayetteville-Springdale-Rogers/AR-MO,AR-00200,AR-22220
 ar,Baxter/Boone/Carroll/Marion/Madison/Newton+Searcy Counties PUMA,Fayetteville-Springdale-Rogers/AR-MO,AR-00300,AR-22220
+ar,,"Searcy, AR Micro Area",AR-00300,AR-42620
 ar,,,AR-00400,AR-22220
 ar,,,AR-00400,AR-27860
 ar,,,AR-00400,AR-30780
@@ -77,6 +86,7 @@ ar,Pulaski County (Central)-Little Rock City PUMA,Little Rock-N Little Rock-Conw
 ar,Faulkner+Lonoke Counties PUMA,Little Rock-N Little Rock-Conway/AR,AR-01100,AR-30780
 ar,Saline County PUMA,Little Rock-N Little Rock-Conway/AR,AR-01200,AR-30780
 ar,Pope/Johnson/Yell/Conway+Perry Counties PUMA,Little Rock-N Little Rock-Conway/AR,AR-01300,AR-30780
+ar,,"Russellville, AR Micro Area",AR-01300,AR-40780
 ar,Sebastian+Crawford Counties PUMA,Fort Smith/AR-OK,AR-01400,AR-22900
 ar,,,AR-01500,AR-30780
 ar,,,AR-01500,AR-26300
@@ -140,6 +150,7 @@ az,Yavapai County PUMA,Prescott/AZ,AZ-00500,AZ-39140
 az,Mohave+La Paz Counties-Lake Havasu City PUMA,Lake Havasu City-Kingman/AZ,AZ-00600,AZ-29420
 az,Yuma County-Yuma City PUMA,Yuma/AZ,AZ-00700,AZ-49740
 az,Gila/Graham/Greenlee+Pinal (E) Counties PUMA,Phoenix-Mesa-Scottsdale/AZ,AZ-00800,AZ-38060
+az,,"Payson, AZ Micro Area",AZ-00800,AZ-37740
 az,Pinal County (N)-Apache Junction City PUMA,Phoenix-Mesa-Scottsdale/AZ,AZ-00803,AZ-38060
 az,Pinal County (Central)-Florence Town/Eloy (NE)+Coolidge Cities PUMA,Phoenix-Mesa-Scottsdale/AZ,AZ-00805,AZ-38060
 az,Pinal County (W)-Maricopa/Casa Grande+Eloy (SE) Cities PUMA,Phoenix-Mesa-Scottsdale/AZ,AZ-00807,AZ-38060
@@ -159,6 +170,7 @@ ca,Alameda County (E)-Livermore/Pleasanton+Dublin Cities PUMA,San Francisco-Oakl
 ca,,,CA-00200,CA-21700
 ca,,,CA-00300,CA-39820
 ca,,,CA-00300,CA-40900
+ca,,"Sonora, CA Micro Area",CA-00300,CA-43760
 ca,,,CA-00400,CA-40900
 ca,,,CA-00500,CA-17020
 ca,,,CA-00500,CA-39820
@@ -288,6 +300,7 @@ ca,Kings County-Hanford City PUMA,Hanford-Corcoran/CA,CA-03100,CA-25260
 ca,,,CA-03200,CA-31460
 ca,,,CA-03200,CA-32900
 ca,,,CA-03300,CA-46380
+ca,,"Clearlake, CA Micro Area",CA-03300,CA-17340
 ca,,,CA-03301,CA-23420
 ca,,,CA-03302,CA-23420
 ca,,,CA-03401,CA-23420
@@ -662,11 +675,13 @@ co,,,CO-00101,CO-24300
 co,Larimer County (S)-Loveland City PUMA,Fort Collins/CO,CO-00102,CO-22660
 co,Larimer County (N)-Fort Collins City PUMA,Fort Collins/CO,CO-00103,CO-22660
 co,,,CO-00200,CO-22660
+co,,"Glenwood Springs, CO Micro Area",CO-00200,CO-24060
 co,Weld County (S Central)-Greeley/Windsor+Evans Cities PUMA,Greeley/CO,CO-00300,CO-24540
 co,,,CO-00400,CO-19740
 co,,,CO-00400,CO-24540
 co,,,CO-00400,CO-39380
 co,,,CO-00400,CO-17820
+co,,"Edwards, CO Micro Area",CO-00400,CO-20780
 co,,,CO-00501,CO-19740
 co,,,CO-00501,CO-24540
 co,,,CO-00501,CO-39380
@@ -706,6 +721,7 @@ co,DRCOG E Plains-Arapahoe (E)+Adams (E) Counties-Aurora City (NE) PUMA,Denver-A
 co,DRCOG E Plains-Arapahoe (E)+Adams (E) Counties-Aurora City (NE) PUMA,Greeley/CO,CO-00824,CO-24540
 co,,,CO-00900,CO-19740
 co,,,CO-00900,CO-39380
+co,,"Durango, CO Micro Area",CO-00900,CO-20420
 co,,,CO-00901,CO-19740
 co,,,CO-00901,CO-39380
 co,,,CO-00901,CO-17820
@@ -741,6 +757,7 @@ ct,Glastonbury/Newington/Wethersfield/Rocky Hill+Marlborough Towns PUMA,Hartford
 ct,,,CT-00400,CT-25540
 ct,,,CT-00500,CT-25540
 ct,,,CT-00500,CT-14860
+ct,,"Torrington, CT Micro Area",CT-00500,CT-45860
 ct,,,CT-00600,CT-25540
 ct,Middlesex County PUMA,Hartford-W Hartford-E Hartford/CT,CT-00700,CT-25540
 ct,,,CT-00800,CT-25540
@@ -1026,6 +1043,7 @@ fl,Miami-Dade County (SW)-S Miami Heights PUMA,Miami-Fort Lauderdale-W Palm Beac
 fl,Miami-Dade County (SE)-Cutler Bay Town+Palmetto Bay Village PUMA,Miami-Fort Lauderdale-W Palm Beach/FL,FL-08623,FL-33100
 fl,Miami-Dade County (S)-Homestead City (N)+Florida City (N) PUMA,Miami-Fort Lauderdale-W Palm Beach/FL,FL-08624,FL-33100
 fl,Miami-Dade (South/Outside Urban Development Boundary)+Monroe Counties PUMA,Miami-Fort Lauderdale-W Palm Beach/FL,FL-08700,FL-33100
+fl,,"Key West, FL Micro Area",FL-08700,FL-28580
 fl,Nassau+Baker Counties PUMA,Jacksonville/FL,FL-08900,FL-27260
 fl,Okaloosa County PUMA,Crestview-Fort Walton Beach-Destin/FL,FL-09100,FL-18880
 fl,SE Heartland-Highlands (S+E)/Okeechobee/Hendry+Glades Counties PUMA,Sebring/FL,FL-09300,FL-42700
@@ -1069,6 +1087,7 @@ fl,Polk County (NE) PUMA,Lakeland-Winter Haven/FL,FL-10502,FL-29460
 fl,Polk County (Central) PUMA,Lakeland-Winter Haven/FL,FL-10503,FL-29460
 fl,Polk County (S) PUMA,Lakeland-Winter Haven/FL,FL-10504,FL-29460
 fl,Putnam+St Johns (S) Counties PUMA,Jacksonville/FL,FL-10700,FL-27260
+fl,,"Palatka, FL Micro Area",FL-10700,FL-37260
 fl,St Johns County (N) PUMA,Jacksonville/FL,FL-10900,FL-27260
 fl,St Lucie County (N) PUMA,Port St Lucie/FL,FL-11101,FL-38940
 fl,St Lucie County (S) PUMA,Port St Lucie/FL,FL-11102,FL-38940
@@ -1086,9 +1105,11 @@ fl,Volusia County (NE)-Daytona Beach/Ormond Beach+Holly Hill Cities PUMA,Deltona
 fl,Volusia County-Port Orange/Edgewater/New Smyrna Beach (E)+Oak Hill Cities PUMA,Deltona-Daytona Beach-Ormond Beach/FL,FL-12703,FL-19660
 fl,Volusia County (SW Central)-Deltona+Lake Helen Cities PUMA,Deltona-Daytona Beach-Ormond Beach/FL,FL-12704,FL-19660
 ga,Coastal Regional Commission (S)-Glynn Camden+McIntosh Counties PUMA,Brunswick/GA,GA-00100,GA-15260
+ga,,"St. Marys, GA Micro Area",GA-00100,GA-41220
 ga,Coastal Regional Commission (W)-Liberty/Bryan+Long Counties PUMA,Hinesville/GA,GA-00200,GA-25980
 ga,Coastal Regional Commission (W)-Liberty/Bryan+Long Counties PUMA,Savannah/GA,GA-00200,GA-42340
 ga,Coastal Regional Commission (N)-Bulloch/Effingham+Screven Counties PUMA,Savannah/GA,GA-00300,GA-42340
+ga,,"Statesboro, GA Micro Area",GA-00300,GA-44340
 ga,,,GA-00400,GA-23580
 ga,,,GA-00400,GA-12020
 ga,,,GA-00400,GA-12060
@@ -1096,6 +1117,7 @@ ga,Coastal Regional Commission (E)-Chatham County (W Central)-Savannah City PUMA
 ga,Coastal Regional Commission (E)-Chatham County (E+Outside Savannah City) PUMA,Savannah/GA,GA-00402,GA-42340
 ga,Southern Georgia Regional Commission (E+Central) PUMA,Brunswick/GA,GA-00500,GA-15260
 ga,Southern Georgia Regional Commission (E+Central) PUMA,Valdosta/GA,GA-00500,GA-46660
+ga,,"Waycross, GA Micro Area",GA-00500,GA-48180
 ga,Southern Georgia Regional Commission (S Central)-Lowndes County-Valdosta City PUMA,Valdosta/GA,GA-00600,GA-46660
 ga,Southern Georgia Regional Commission (W) PUMA,Valdosta/GA,GA-00700,GA-46660
 ga,SW Georgia Regional Commission (E)-Colquitt/Thomas+Worth Counties PUMA,Albany/GA,GA-00800,GA-10500
@@ -1130,6 +1152,7 @@ ga,,,GA-01206,GA-12060
 ga,,,GA-01300,GA-12060
 ga,,,GA-01300,GA-40660
 ga,,,GA-01300,GA-16860
+ga,,"Dublin, GA Micro Area",GA-01300,GA-20140
 ga,,,GA-01301,GA-12060
 ga,,,GA-01302,GA-12060
 ga,,,GA-01303,GA-12060
@@ -1146,6 +1169,7 @@ ga,,,GA-01504,GA-12060
 ga,,,GA-01505,GA-12060
 ga,Middle Georgia Regional Commission (N+Outside Bibb County) PUMA,Macon/GA,GA-01600,GA-31420
 ga,Middle Georgia Regional Commission (N+Outside Bibb County) PUMA,Warner Robins/GA,GA-01600,GA-47580
+ga,,"Milledgeville, GA Micro Area",GA-01600,GA-33300
 ga,River Valley Regional Commission (W Central)-Muscogee+Chattahoochee Counties PUMA,Columbus/GA-AL,GA-01700,GA-17980
 ga,River Valley Regional Commission (Outside Muscogee+Chattahoochee Counties) PUMA,Columbus/GA-AL,GA-01800,GA-17980
 ga,Three Rivers Regional Commission (E) PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-01900,GA-12060
@@ -1156,14 +1180,17 @@ ga,Atlanta Regional Commission (Central)-DeKalb County (NE)-Tucker PUMA,Atlanta-
 ga,Atlanta Regional Commission-DeKalb County (N)-Dunwoody City PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-02004,GA-12060
 ga,Three Rivers Regional Commission (N Central)-Coweta County PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-02100,GA-12060
 ga,Three Rivers Regional Commission (SW)-Troup/Meriwether+Heard Counties PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-02200,GA-12060
+ga,,"LaGrange, GA Micro Area",GA-02200,GA-29300
 ga,Three Rivers Regional Commission (NW)-Carroll County PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-02300,GA-12060
 ga,Atlanta Regional Commission (S Central)-Fayette County PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-02400,GA-12060
 ga,NW Georgia Regional Commission (SW)-Floyd/Polk+Haralson Counties PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-02500,GA-12060
 ga,NW Georgia Regional Commission (SW)-Floyd/Polk+Haralson Counties PUMA,Rome/GA,GA-02500,GA-40660
+ga,,"Calhoun, GA Micro Area",GA-02500,GA-15660
 ga,NW Georgia Regional Commission-Walker/Catoosa/Chattooga+Dade Counties PUMA,Chattanooga/TN-GA,GA-02600,GA-16860
 ga,NW Georgia Regional Commission (N Central)-Whitfield County PUMA,Dalton/GA,GA-02700,GA-19140
 ga,NW Georgia Regional Commission (NE) PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-02800,GA-12060
 ga,NW Georgia Regional Commission (NE) PUMA,Dalton/GA,GA-02800,GA-19140
+ga,,"Calhoun, GA Micro Area",GA-02800,GA-15660
 ga,NW Georgia Regional Commission (E Central)-Bartow County PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-02900,GA-12060
 ga,,,GA-03000,GA-17980
 ga,Atlanta Regional Commission (NW)-Cobb County (Central)-Marietta City PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-03001,GA-12060
@@ -1183,6 +1210,7 @@ ga,,,GA-03500,GA-42340
 ga,NE Georgia Regional Commission (Central)-Clarke County-Athens City PUMA,Athens-Clarke County/GA,GA-03600,GA-12020
 ga,NE Georgia Regional Commission (E) PUMA,Athens-Clarke County/GA,GA-03700,GA-12020
 ga,NE Georgia Regional Commission (NW)-Barrow+Jackson Counties PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-03800,GA-12060
+ga,,"Jefferson, GA Micro Area",GA-03800,GA-27600
 ga,NE Georgia Regional Commission (SW)-Walton/Morgan+Jasper Counties PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-03900,GA-12060
 ga,Central Savannah River Area Regional Commission (E Central)-Richmond County PUMA,Augusta-Richmond County/GA-SC,GA-04000,GA-12260
 ga,Atlanta Regional Commission (NE)-Gwinnett County (W Central)-Duluth City PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-04001,GA-12060
@@ -1193,6 +1221,7 @@ ga,Atlanta Regional Commission (NE)-Gwinnett County (S)-Snellville City PUMA,Atl
 ga,Atlanta Regional Commission (NE)-Gwinnett County (SW)-Lilburn City PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-04006,GA-12060
 ga,Central Savannah River Area Regional Commission (E Central)-Columbia County PUMA,Augusta-Richmond County/GA-SC,GA-04100,GA-12260
 ga,Central Savannah River Area Regional Commission (W+Outside Richmond+Columbia) PUMA,Augusta-Richmond County/GA-SC,GA-04200,GA-12260
+ga,,"Milledgeville, GA Micro Area",GA-04200,GA-33300
 ga,Atlanta+NE Georgia Regional Commissions-Newton+Rockdale Counties PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-04300,GA-12060
 ga,Atlanta Regional Commission (SW)-Douglas County PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-04400,GA-12060
 ga,NW Georgia Regional Commission (SE)-Paulding County PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-04500,GA-12060
@@ -1202,6 +1231,7 @@ ga,Atlanta Regional Commission (S Central)-Clayton County (N)-Forest Park City P
 ga,Atlanta Regional Commission (SE)-Henry County (S)-McDonough City PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-06001,GA-12060
 ga,Atlanta Regional Commission (SE)-Henry County (N)-Stockbridge City PUMA,Atlanta-Sandy Springs-Roswell/GA,GA-06002,GA-12060
 hi,Maui/Kalawao+Kauai Counties PUMA,Kahului-Wailuku-Lahaina/HI,HI-00100,HI-27980
+hi,,"Kapaa, HI Micro Area",HI-00100,HI-28180
 hi,,,HI-00200,HI-25900
 hi,Honolulu County-Rural Oahu PUMA,Urban Honolulu/HI,HI-00301,HI-46520
 hi,Honolulu County-Koolaupoko PUMA,Urban Honolulu/HI,HI-00302,HI-46520
@@ -1213,6 +1243,7 @@ hi,Honolulu County-Central Oahu PUMA,Urban Honolulu/HI,HI-00307,HI-46520
 hi,Honolulu County-Ewa PUMA,Urban Honolulu/HI,HI-00308,HI-46520
 ia,,,IA-00100,IA-43580
 ia,,,IA-00200,IA-47940
+ia,,"Mason City, IA Micro Area",IA-00200,IA-32380
 ia,,,IA-00300,IA-47940
 ia,,,IA-00300,IA-20220
 ia,Bremer/Winneshiek/Fayette/Clayton/Allamakee/Chickasaw+Howard Counties PUMA,Waterloo-Cedar Falls/IA,IA-00400,IA-47940
@@ -1252,8 +1283,10 @@ id,,,ID-00900,ID-26820
 id,,,ID-00900,ID-30860
 id,,,ID-00900,ID-38540
 id,,,ID-00900,ID-14260
+id,,"Twin Falls, ID Metro Area",ID-00900,ID-46300
 id,,,ID-01000,ID-14260
 id,Bingham (Outside Fort Hall AIR)/Madison/Jefferson/Fremont+Teton Counties PUMA,Idaho Falls/ID,ID-01100,ID-26820
+id,,"Rexburg, ID Micro Area",ID-01100,ID-39940
 id,Bonneville County-Idaho Falls City PUMA,Idaho Falls/ID,ID-01200,ID-26820
 id,SE Idaho-Pocatello/Chubbuck Cities+Fort Hall Reservation PUMA,Logan/UT-ID,ID-01300,ID-30860
 id,SE Idaho-Pocatello/Chubbuck Cities+Fort Hall Reservation PUMA,Pocatello/ID,ID-01300,ID-38540
@@ -1262,9 +1295,11 @@ il,,,IL-00102,IL-19340
 il,,,IL-00102,IL-37900
 il,,,IL-00103,IL-19340
 il,,,IL-00104,IL-44580
+il,,"Rochelle, IL Micro Area",IL-00104,IL-40300
 il,Rock Island County PUMA,Davenport-Moline-Rock Island/IA-IL,IL-00105,IL-19340
 il,,,IL-00200,IL-19340
 il,Henry/Mercer/Henderson/Warren/Hancock/McDonough+Fulton Counties PUMA,Davenport-Moline-Rock Island/IA-IL,IL-00202,IL-19340
+il,,"Galesburg, IL Micro Area",IL-00202,IL-23660
 il,,,IL-00300,IL-39500
 il,,,IL-00400,IL-41180
 il,Cass/Morgan/Scott/Greene/Macoupin/Jersey+Calhoun Counties PUMA,St Louis/MO-IL,IL-00401,IL-41180
@@ -1310,10 +1345,13 @@ il,Kankakee County PUMA,Kankakee/IL,IL-02300,IL-28100
 il,,,IL-02400,IL-36860
 il,,,IL-02500,IL-37900
 il,Knox/Stark/Bureau/Marshall+Woodford Counties PUMA,Peoria/IL,IL-02501,IL-37900
+il,,"Galesburg, IL Micro Area",IL-02501,IL-23660
 il,,,IL-02600,IL-37900
 il,,,IL-02600,IL-16980
 il,DeKalb County PUMA,Chicago-Naperville-Elgin/IL-IN-WI,IL-02601,IL-16980
+il,,"Rochelle, IL Micro Area",IL-02601,IL-40300
 il,,,IL-02700,IL-16980
+il,,"Rochelle, IL Micro Area",IL-02700,IL-40300
 il,,,IL-02800,IL-40420
 il,Winnebago County (SE+W)-Rockford City PUMA,Rockford/IL,IL-02801,IL-40420
 il,,,IL-02900,IL-40420
@@ -1430,15 +1468,19 @@ in,St Joseph County (Outside S Bend City)-Mishawaka City PUMA,S Bend-Mishawaka/I
 in,Elkhart County-Elkhart+Goshen Cities PUMA,Elkhart-Goshen/IN,IN-00500,IN-21140
 in,,,IN-00600,IN-43780
 in,Jasper/Starke/Fulton/Newton+Pulaski Counties PUMA,Chicago-Naperville-Elgin/IL-IN-WI,IN-00700,IN-16980
+in,,"Jasper, IN Micro Area",IN-00700,IN-27540
 in,,,IN-00800,IN-21140
 in,,,IN-00800,IN-29200
+in,,"Warsaw, IN Micro Area",IN-00800,IN-47700
 in,Huntington/Whitley/Adams+Wells Counties PUMA,Fort Wayne/IN,IN-00900,IN-23060
 in,,,IN-01000,IN-23060
 in,Allen County (Central)-Fort Wayne City (S) PUMA,Fort Wayne/IN,IN-01001,IN-23060
 in,Allen County (Central)-Fort Wayne City (N) PUMA,Fort Wayne/IN,IN-01002,IN-23060
 in,Allen County (Outside Fort Wayne City) PUMA,Fort Wayne/IN,IN-01003,IN-23060
 in,Montgomery/Clinton/White/Carroll+Benton Counties PUMA,Lafayette-W Lafayette/IN,IN-01100,IN-29200
+in,,"Richmond, IN Micro Area",IN-01100,IN-39980
 in,Tippecanoe County-Lafayette+W Lafayette Cities PUMA,Lafayette-W Lafayette/IN,IN-01200,IN-29200
+in,,"Richmond, IN Micro Area",IN-01200,IN-39980
 in,Howard/Cass+Tipton Counties-Kokomo City PUMA,Kokomo/IN,IN-01300,IN-29020
 in,,,IN-01400,IN-29200
 in,,,IN-01400,IN-45460
@@ -1460,15 +1502,23 @@ in,,,IN-02002,IN-26900
 in,Morgan/Putnam+Brown Counties PUMA,Indianapolis-Carmel-Anderson/IN,IN-02100,IN-26900
 in,Hendricks County PUMA,Indianapolis-Carmel-Anderson/IN,IN-02200,IN-26900
 in,Marion County-Pike+Washington (NW) Townships-Indianapolis City (NW) PUMA,Indianapolis-Carmel-Anderson/IN,IN-02301,IN-26900
+in,,"Marion, IN Micro Area",IN-02301,IN-31980
 in,Marion County-Washington Township (S+E)-Indianapolis City (N) PUMA,Indianapolis-Carmel-Anderson/IN,IN-02302,IN-26900
+in,,"Marion, IN Micro Area",IN-02302,IN-31980
 in,Marion County-Lawrence Township-Indianapolis (NE)+Lawrence Cities PUMA,Indianapolis-Carmel-Anderson/IN,IN-02303,IN-26900
+in,,"Marion, IN Micro Area",IN-02303,IN-31980
 in,Marion County-Wayne+Decatur (NW) Townships-Indianapolis City (W) PUMA,Indianapolis-Carmel-Anderson/IN,IN-02304,IN-26900
+in,,"Marion, IN Micro Area",IN-02304,IN-31980
 in,Marion County-Center Township-Indianapolis City (Central) PUMA,Indianapolis-Carmel-Anderson/IN,IN-02305,IN-26900
+in,,"Marion, IN Micro Area",IN-02305,IN-31980
 in,Marion County-Warren+Franklin Townships-Indianapolis City (E+SE) PUMA,Indianapolis-Carmel-Anderson/IN,IN-02306,IN-26900
+in,,"Marion, IN Micro Area",IN-02306,IN-31980
 in,Marion County-Perry+Decatur (S+E) Townships-Indianapolis City (S) PUMA,Indianapolis-Carmel-Anderson/IN,IN-02307,IN-26900
+in,,"Marion, IN Micro Area",IN-02307,IN-31980
 in,Johnson County-Greenwood City PUMA,Indianapolis-Carmel-Anderson/IN,IN-02400,IN-26900
 in,Hancock+Shelby Counties PUMA,Indianapolis-Carmel-Anderson/IN,IN-02500,IN-26900
 in,Wayne/Fayette/Rush+Union Counties PUMA,Cincinnati/OH-KY-IN,IN-02600,IN-17140
+in,,"Richmond, IN Micro Area",IN-02600,IN-39980
 in,Greene/Daviess/Owen/Orange+Martin Counties PUMA,Bloomington/IN,IN-02700,IN-14020
 in,Monroe County-Bloomington City PUMA,Bloomington/IN,IN-02800,IN-14020
 in,Bartholomew+Jackson Counties-Columbus City PUMA,Columbus/IN,IN-02900,IN-18020
@@ -1488,6 +1538,7 @@ ks,,,KS-00200,KS-31740
 ks,,,KS-00200,KS-28140
 ks,,,KS-00200,KS-41140
 ks,,,KS-00200,KS-45820
+ks,,"Salina, KS Micro Area",KS-00200,KS-41460
 ks,Riley/Geary+Pottawatomie Counties-Manhattan City PUMA,Manhattan/KS,KS-00300,KS-31740
 ks,NE Kansas PUMA,Kansas City/MO-KS,KS-00400,KS-28140
 ks,NE Kansas PUMA,St Joseph/MO-KS,KS-00400,KS-41140
@@ -1527,6 +1578,7 @@ ky,,,KY-00100,KY-32460
 ky,,,KY-00200,KY-17300
 ky,Pennyrile Area Development District (S) PUMA,Clarksville/TN-KY,KY-00300,KY-17300
 ky,Barren River Area Development District (Outer) PUMA,Bowling Green/KY,KY-00400,KY-14540
+ky,,"Glasgow, KY Micro Area",KY-00400,KY-23980
 ky,Barren River Area Development District (Central)-Warren County PUMA,Bowling Green/KY,KY-00500,KY-14540
 ky,,,KY-00600,KY-14540
 ky,,,KY-00600,KY-21060
@@ -1544,6 +1596,7 @@ ky,Green River Area Development District (SW) PUMA,Evansville/IN-KY,KY-01400,KY-
 ky,Green River Area Development District (SW) PUMA,Owensboro/KY,KY-01400,KY-36980
 ky,Green River Area Development District (NE)-Daviess+Hancock Counties PUMA,Owensboro/KY,KY-01500,KY-36980
 ky,KIPDA Area Development District (SE) PUMA,Louisville/Jefferson County/KY-IN,KY-01600,KY-31140
+ky,,"Frankfort, KY Micro Area",KY-01600,KY-23180
 ky,KIPDA Area Development District (W)-Louisville/Jefferson County (NW) PUMA,Louisville/Jefferson County/KY-IN,KY-01701,KY-31140
 ky,KIPDA Area Development District (W)-Louisville/Jefferson County (N Central) PUMA,Louisville/Jefferson County/KY-IN,KY-01702,KY-31140
 ky,KIPDA Area Development District (W)-Louisville/Jefferson County (NE) PUMA,Louisville/Jefferson County/KY-IN,KY-01703,KY-31140
@@ -1551,10 +1604,13 @@ ky,KIPDA Area Development District (W)-Louisville/Jefferson County (SE) PUMA,Lou
 ky,KIPDA Area Development District (W)-Louisville/Jefferson County (S Central) PUMA,Louisville/Jefferson County/KY-IN,KY-01705,KY-31140
 ky,KIPDA Area Development District (W)-Louisville/Jefferson County (SW) PUMA,Louisville/Jefferson County/KY-IN,KY-01706,KY-31140
 ky,KIPDA Area Development District (NE) PUMA,Louisville/Jefferson County/KY-IN,KY-01800,KY-31140
+ky,,"Frankfort, KY Micro Area",KY-01800,KY-23180
 ky,Bluegrass Area Development District (Central)-Lexington-Fayette County (Central) PUMA,Lexington-Fayette/KY,KY-01901,KY-30460
 ky,Bluegrass Area Development District (Central)-Lexington-Fayette County (Outer) PUMA,Lexington-Fayette/KY,KY-01902,KY-30460
 ky,Bluegrass Area Development District (W) PUMA,Lexington-Fayette/KY,KY-02000,KY-30460
+ky,,"Frankfort, KY Micro Area",KY-02000,KY-23180
 ky,Bluegrass Area Development District (S) PUMA,Lexington-Fayette/KY,KY-02100,KY-30460
+ky,,"Danville, KY Micro Area",KY-02100,KY-19220
 ky,,,KY-02200,KY-17140
 ky,,,KY-02200,KY-26580
 ky,Bluegrass Area Development District (NE) PUMA,Lexington-Fayette/KY,KY-02300,KY-30460
@@ -1572,13 +1628,16 @@ la,N Delta Regional Planning+Development District 1-Ouachita Parish PUMA,Monroe/
 la,N Delta Regional Planning+Development District 2-NE Louisiana PUMA,Monroe/LA,LA-00500,LA-33740
 la,Kisatchie Delta Regional Planning+Development District 1 PUMA,Alexandria/LA,LA-00600,LA-10780
 la,Kisatchie Delta Regional Planning+Development District 2-Rapides+Vernon Parishes PUMA,Alexandria/LA,LA-00700,LA-10780
+la,,"Fort Polk South, LA Micro Area",LA-00700,LA-22860
 la,Imperial Calcasieu Regional Planning+Development District 1 (N) PUMA,Lake Charles/LA,LA-00800,LA-29340
 la,Imperial Calcasieu Regional Planning+Development District 2 (S) PUMA,Lake Charles/LA,LA-00900,LA-29340
 la,,,LA-01000,LA-29180
+la,,"Opelousas, LA Micro Area",LA-01000,LA-36660
 la,Acadiana Regional Development District 2-Acadia+Vermilion Parishes PUMA,Lafayette/LA,LA-01100,LA-29180
 la,Acadiana Regional Development District 3-Lafayette Parish (N) PUMA,Lafayette/LA,LA-01200,LA-29180
 la,Acadiana Regional Development District 4-Lafayette Parish (S) PUMA,Lafayette/LA,LA-01201,LA-29180
 la,Acadiana Regional Development District 5-Iberia/St Mary+St Martin Parishes PUMA,Lafayette/LA,LA-01300,LA-29180
+la,,"Morgan City, LA Micro Area",LA-01300,LA-34020
 la,Capital Region Planning Commission 1-Baton Rouge Metropolitan Area (W) PUMA,Baton Rouge/LA,LA-01400,LA-12940
 la,,,LA-01401,LA-12940
 la,,,LA-01402,LA-12940
@@ -1596,6 +1655,7 @@ la,,,LA-01902,LA-35380
 la,,,LA-01903,LA-35380
 la,,,LA-01904,LA-35380
 la,S Central Planning+Development Commission 2-Lafourche+Assumption Parishes PUMA,Houma-Thibodaux/LA,LA-02000,LA-26380
+la,,"Morgan City, LA Micro Area",LA-02000,LA-34020
 la,,,LA-02001,LA-25220
 la,,,LA-02001,LA-35380
 la,,,LA-02002,LA-35380
@@ -1612,6 +1672,7 @@ la,Regional Planning Commission 9-St Bernard/Jefferson (S)+Plaquemines Parishes 
 la,,,LA-77777,LA-35380
 ma,Berkshire County-Pittsfield City PUMA,Pittsfield/MA,MA-00100,MA-38340
 ma,Franklin+Hampshire (N) Counties PUMA,Springfield/MA,MA-00200,MA-44140
+ma,,"Greenfield Town, MA Micro Area",MA-00200,MA-24640
 ma,Worcester County (Central)-Worcester City PUMA,Worcester/MA-CT,MA-00300,MA-49340
 ma,Worcester County (NE)-Leominster/Fitchburg+Gardner Cities PUMA,Worcester/MA-CT,MA-00301,MA-49340
 ma,Worcester County (W Central) PUMA,Worcester/MA-CT,MA-00302,MA-49340
@@ -1761,6 +1822,7 @@ me,,,ME-00200,ME-38860
 me,Penobscot County PUMA,Bangor/ME,ME-00300,ME-12620
 me,,,ME-00400,ME-38860
 me,,,ME-00400,ME-30340
+me,,"Augusta-Waterville, ME Micro Area",ME-00400,ME-12300
 me,,,ME-00500,ME-38860
 me,Androscoggin County PUMA,Lewiston-Auburn/ME,ME-00600,ME-30340
 me,Sagadahoc+Cumberland (N) Counties-Bath City+Brunswick PUMA,Portland-S Portland/ME,ME-00700,ME-38860
@@ -1769,9 +1831,11 @@ me,Cumberland (Outside Portland)+York (E) Counties-Biddeford+Saco Cities PUMA,Po
 me,Cumberland County (SE)-Portland/S Portland+Westbrook Cities PUMA,Portland-S Portland/ME,ME-01000,ME-38860
 mi,,,MI-00100,MI-26340
 mi,,,MI-00100,MI-27020
+mi,,"Marquette, MI Micro Area",MI-00100,MI-32100
 mi,,,MI-00200,MI-21540
 mi,,,MI-00200,MI-31940
 mi,,,MI-00200,MI-42300
+mi,,"Marquette, MI Micro Area",MI-00200,MI-32100
 mi,,,MI-00300,MI-10980
 mi,,,MI-00400,MI-15620
 mi,,,MI-00400,MI-45900
@@ -1781,19 +1845,25 @@ mi,Muskegon County PUMA,Muskegon/MI,MI-00700,MI-34740
 mi,,,MI-00800,MI-13020
 mi,,,MI-00800,MI-33220
 mi,Ottawa County (W) PUMA,Grand Rapids-Wyoming/MI,MI-00801,MI-24340
+mi,,"Holland, MI Micro Area",MI-00801,MI-26090
 mi,Ottawa County (E) PUMA,Grand Rapids-Wyoming/MI,MI-00802,MI-24340
+mi,,"Holland, MI Micro Area",MI-00802,MI-26090
 mi,,,MI-00900,MI-40980
+mi,,"Holland, MI Micro Area",MI-00900,MI-26090
 mi,,,MI-01000,MI-10940
 mi,Kent County (SW) PUMA,Grand Rapids-Wyoming/MI,MI-01001,MI-24340
 mi,Kent County (Central)-Grand Rapids City Area PUMA,Grand Rapids-Wyoming/MI,MI-01002,MI-24340
 mi,Kent County (SE) PUMA,Grand Rapids-Wyoming/MI,MI-01003,MI-24340
 mi,Kent County (N) PUMA,Grand Rapids-Wyoming/MI,MI-01004,MI-24340
 mi,Ionia/Montcalm/Mecosta+Osceola Counties PUMA,Grand Rapids-Wyoming/MI,MI-01100,MI-24340
+mi,,"Ionia, MI Micro Area",MI-01100,MI-26960
 mi,,,MI-01200,MI-34740
 mi,,,MI-01200,MI-24340
+mi,,"Mount Pleasant, MI Micro Area",MI-01200,MI-34380
 mi,,,MI-01300,MI-24340
 mi,Bay+Midland Counties PUMA,Bay City/MI,MI-01400,MI-13020
 mi,Bay+Midland Counties PUMA,Midland/MI,MI-01400,MI-33220
+mi,,"Mount Pleasant, MI Micro Area",MI-01400,MI-34380
 mi,,,MI-01401,MI-24340
 mi,,,MI-01402,MI-24340
 mi,,,MI-01403,MI-24340
@@ -1807,6 +1877,7 @@ mi,Genesee (E)+Lapeer Counties PUMA,Flint/MI,MI-01701,MI-22420
 mi,Genesee County (Central/Outside Flint City) PUMA,Flint/MI,MI-01702,MI-22420
 mi,Genesee County (Central)-Flint City Area PUMA,Flint/MI,MI-01703,MI-22420
 mi,Genesee (W)+Shiawassee Counties PUMA,Flint/MI,MI-01704,MI-22420
+mi,,"Owosso, MI Micro Area",MI-01704,MI-37020
 mi,,,MI-01800,MI-29620
 mi,Ingham County (S+E) PUMA,Lansing-E Lansing/MI,MI-01801,MI-29620
 mi,Ingham County (NW) PUMA,Lansing-E Lansing/MI,MI-01802,MI-29620
@@ -1817,6 +1888,7 @@ mi,,,MI-02100,MI-24340
 mi,Kalamazoo County (Outer) PUMA,Kalamazoo-Portage/MI,MI-02101,MI-28020
 mi,Kalamazoo County (Central)-Kalamazoo+Portage Cities Area PUMA,Kalamazoo-Portage/MI,MI-02102,MI-28020
 mi,,,MI-02200,MI-22420
+mi,,"Sturgis, MI Micro Area",MI-02200,MI-44780
 mi,Van Buren+Cass Counties PUMA,Kalamazoo-Portage/MI,MI-02300,MI-28020
 mi,Van Buren+Cass Counties PUMA,S Bend-Mishawaka/IN-MI,MI-02300,MI-43780
 mi,,,MI-02301,MI-22420
@@ -1824,6 +1896,7 @@ mi,,,MI-02302,MI-19820
 mi,,,MI-02302,MI-22420
 mi,Berrien County PUMA,Niles-Benton Harbor/MI,MI-02400,MI-35660
 mi,,,MI-02500,MI-25880
+mi,,"Adrian, MI Micro Area",MI-02500,MI-10300
 mi,,,MI-02501,MI-19820
 mi,,,MI-02502,MI-19820
 mi,,,MI-02503,MI-19820
@@ -1906,14 +1979,17 @@ mn,Clay/Polk/Roseau/Pennington/Marshall/Norman/Kittson+Red Lake Counties PUMA,Gr
 mn,,,MN-00200,MN-22020
 mn,,,MN-00200,MN-24220
 mn,Itasca/Carlton (S)/Cass+Aitkin Counties-Grand Rapids City PUMA,Duluth/MN-WI,MN-00300,MN-20260
+mn,,"Brainerd, MN Micro Area",MN-00300,MN-14660
 mn,St Louis (N)/Koochiching/Lake+Cook Counties-Hibbing+Cloquet Cities PUMA,Duluth/MN-WI,MN-00400,MN-20260
 mn,St Louis County (SE)-Duluth/Hermantown+Proctor Cities PUMA,Duluth/MN-WI,MN-00500,MN-20260
 mn,Chisago/Isanti/Pine/Mille Lacs+Kanabec Counties PUMA,Minneapolis-St Paul-Bloomington/MN-WI,MN-00600,MN-33460
 mn,,,MN-00700,MN-33460
 mn,,,MN-00700,MN-20260
+mn,,"Brainerd, MN Micro Area",MN-00700,MN-14660
 mn,,,MN-00800,MN-41060
 mn,,,MN-00800,MN-33460
 mn,,,MN-00800,MN-13900
+mn,,"Fergus Falls, MN Micro Area",MN-00800,MN-22260
 mn,Stearns County-St Cloud City PUMA,St Cloud/MN,MN-00900,MN-41060
 mn,Sherburne+Benton Counties PUMA,Minneapolis-St Paul-Bloomington/MN-WI,MN-01000,MN-33460
 mn,Sherburne+Benton Counties PUMA,St Cloud/MN,MN-01000,MN-41060
@@ -1942,6 +2018,7 @@ mn,Hennepin County-Eden Prairie+Minnetonka Cities PUMA,Minneapolis-St Paul-Bloom
 mn,Hennepin County-Bloomington+Richfield Cities PUMA,Minneapolis-St Paul-Bloomington/MN-WI,MN-01410,MN-33460
 mn,Dakota County (N)-Eagan/Inver Grove Heights+S St Paul Cities PUMA,Minneapolis-St Paul-Bloomington/MN-WI,MN-01501,MN-33460
 mn,Dakota County (S)-Lakeville/Hastings/Rosemount+Farmington Cities PUMA,Minneapolis-St Paul-Bloomington/MN-WI,MN-01502,MN-33460
+mn,,"Faribault-Northfield, MN Micro Area",MN-01502,MN-22060
 mn,Dakota County (W)-Burnsville+Apple Valley Cities PUMA,Minneapolis-St Paul-Bloomington/MN-WI,MN-01503,MN-33460
 mn,Scott County (E)-Shakopee/Savage+Prior Lake Cities PUMA,Minneapolis-St Paul-Bloomington/MN-WI,MN-01600,MN-33460
 mn,,,MN-01601,MN-33460
@@ -1955,10 +2032,12 @@ mn,,,MN-02100,MN-33460
 mn,,,MN-02100,MN-40340
 mn,Blue Earth/Nicollet+Waseca Counties-Mankato City PUMA,Mankato-N Mankato/MN,MN-02200,MN-31860
 mn,Rice/Goodhue+Le Sueur Counties PUMA,Minneapolis-St Paul-Bloomington/MN-WI,MN-02300,MN-33460
+mn,,"Faribault-Northfield, MN Micro Area",MN-02300,MN-22060
 mn,Mower/Steele/Freeborn+Dodge Counties PUMA,Rochester/MN,MN-02400,MN-40340
 mn,Olmsted County-Rochester City PUMA,Rochester/MN,MN-02500,MN-40340
 mn,Winona/Wabasha/Fillmore+Houston Counties-Winona City PUMA,La Crosse-Onalaska/WI-MN,MN-02600,MN-29100
 mn,Winona/Wabasha/Fillmore+Houston Counties-Winona City PUMA,Rochester/MN,MN-02600,MN-40340
+mn,,"Winona, MN Micro Area",MN-02600,MN-49100
 mo,,,MO-00100,MO-41140
 mo,,,MO-00100,MO-28140
 mo,,,MO-00100,MO-30700
@@ -1972,6 +2051,7 @@ mo,,,MO-00700,MO-41180
 mo,,,MO-00700,MO-27620
 mo,,,MO-00700,MO-17860
 mo,Johnson/Lafayette/Ray/Clinton+Caldwell Counties PUMA,Kansas City/MO-KS,MO-00800,MO-28140
+mo,,"Warrensburg, MO Micro Area",MO-00800,MO-47660
 mo,Clay County (NE) PUMA,Kansas City/MO-KS,MO-00901,MO-28140
 mo,Kansas City (N Central)/Gladstone City+N Kansas City PUMA,Kansas City/MO-KS,MO-00902,MO-28140
 mo,Platte County PUMA,Kansas City/MO-KS,MO-00903,MO-28140
@@ -1987,6 +2067,7 @@ mo,Laclede/Polk/Benton/Dallas+Hickory Counties PUMA,Springfield/MO,MO-01300,MO-4
 mo,,,MO-01400,MO-41180
 mo,,,MO-01400,MO-27620
 mo,,,MO-01400,MO-44180
+mo,,"Fort Leonard Wood, MO Micro Area",MO-01400,MO-22780
 mo,,,MO-01500,MO-41180
 mo,,,MO-01500,MO-44180
 mo,Franklin County PUMA,St Louis/MO-IL,MO-01600,MO-41180
@@ -2016,6 +2097,7 @@ mo,Jefferson County (N) PUMA,St Louis/MO-IL,MO-02001,MO-41180
 mo,Jefferson County (S) PUMA,St Louis/MO-IL,MO-02002,MO-41180
 mo,,,MO-02100,MO-27860
 mo,,,MO-02100,MO-16020
+mo,,"Farmington, MO Micro Area",MO-02100,MO-22100
 mo,Cape Girardeau/Scott+Bollinger Counties PUMA,Cape Girardeau/MO-IL,MO-02200,MO-16020
 mo,,,MO-02300,MO-44180
 mo,,,MO-02300,MO-16020
@@ -2035,8 +2117,11 @@ ms,NE Region-Marshall/Alcorn/Prentiss/Tippah/Tishomingo+Benton Counties PUMA,Mem
 ms,N Delta Region-Panola/Tate/Coahoma/Tallahatchie/Tunica+Quitman Counties PUMA,Memphis/TN-MS-AR,MS-00300,MS-32820
 ms,,,MS-00400,MS-32820
 ms,,,MS-00400,MS-27140
+ms,,"Oxford, MS Micro Area",MS-00400,MS-37060
 ms,,,MS-00500,MS-32820
+ms,,"Tupelo, MS Micro Area",MS-00500,MS-46180
 ms,,,MS-00600,MS-27140
+ms,,"Columbus, MS Micro Area",MS-00600,MS-18060
 ms,,,MS-00700,MS-32820
 ms,,,MS-00700,MS-27140
 ms,,,MS-00800,MS-17380
@@ -2046,27 +2131,35 @@ ms,Central Region-Madison+Yazoo Counties PUMA,Jackson/MS,MS-00900,MS-27140
 ms,Central Region-Jackson (W+S)+Clinton (S+E) Cities PUMA,Jackson/MS,MS-01000,MS-27140
 ms,Central Region-Jackson City (E+Central) PUMA,Jackson/MS,MS-01100,MS-27140
 ms,Central Region-Hinds (W)/Warren+Copiah Counties-Vicksburg City PUMA,Jackson/MS,MS-01200,MS-27140
+ms,,"Vicksburg, MS Micro Area",MS-01200,MS-46980
 ms,Central Region-Rankin+Simpson Counties PUMA,Jackson/MS,MS-01300,MS-27140
 ms,,,MS-01400,MS-27140
+ms,,"Laurel, MS Micro Area",MS-01400,MS-29860
 ms,,,MS-01500,MS-27140
+ms,,"Meridian, MS Micro Area",MS-01500,MS-32940
 ms,,,MS-01600,MS-27140
 ms,,,MS-01600,MS-29180
 ms,,,MS-01600,MS-25060
 ms,,,MS-01700,MS-27140
 ms,,,MS-01700,MS-25620
+ms,,"Laurel, MS Micro Area",MS-01700,MS-29860
 ms,S Region-Forrest/Lamar/Marion+Perry Counties-Hattiesburg City PUMA,Hattiesburg/MS,MS-01800,MS-25620
 ms,S Region-Pearl River/Hancock/George+Stone Counties PUMA,Gulfport-Biloxi-Pascagoula/MS,MS-01900,MS-25060
+ms,,"Picayune, MS Micro Area",MS-01900,MS-38100
 ms,S Region-Harrison County-Gulfport+Biloxi Cities PUMA,Gulfport-Biloxi-Pascagoula/MS,MS-02000,MS-25060
 ms,S Region-Jackson County PUMA,Gulfport-Biloxi-Pascagoula/MS,MS-02100,MS-25060
 ms,,,MS-02200,MS-25060
 ms,,,MS-02300,MS-25060
 mt,,,MT-00100,MT-33540
+mt,,"Kalispell, MT Micro Area",MT-00100,MT-28060
 mt,W Montana-Missoula City PUMA,Missoula/MT,MT-00200,MT-33540
 mt,,,MT-00300,MT-24500
 mt,,,MT-00300,MT-13740
 mt,,,MT-00300,MT-33540
+mt,,"Helena, MT Micro Area",MT-00300,MT-25740
 mt,N Central Montana-Great Falls City PUMA,Great Falls/MT,MT-00400,MT-24500
 mt,S Central Montana-Bozeman City PUMA,Billings/MT,MT-00500,MT-13740
+mt,,"Bozeman, MT Micro Area",MT-00500,MT-14580
 mt,E Montana (Outside Billings City) PUMA,Billings/MT,MT-00600,MT-13740
 mt,Billings City PUMA,Billings/MT,MT-00700,MT-13740
 nc,,,NC-00100,NC-11700
@@ -2074,23 +2167,33 @@ nc,,,NC-00100,NC-28940
 nc,,,NC-00100,NC-34100
 nc,,,NC-00100,NC-20500
 nc,,,NC-00100,NC-39580
+nc,,"Boone, NC Micro Area",NC-00100,NC-14380
 nc,,,NC-00200,NC-39580
+nc,,"North Wilkesboro, NC Micro Area",NC-00200,NC-35900
+nc,,"Mount Airy, NC Micro Area",NC-00200,NC-34340
 nc,,,NC-00201,NC-25860
 nc,,,NC-00201,NC-11700
 nc,,,NC-00202,NC-11700
 nc,Rockingham+Stokes Counties PUMA,Greensboro-High Point/NC,NC-00300,NC-24660
 nc,Rockingham+Stokes Counties PUMA,Winston-Salem/NC,NC-00300,NC-49180
+nc,,"Mount Airy, NC Micro Area",NC-00300,NC-34340
 nc,Granville/Person+Caswell Counties PUMA,Durham-Chapel Hill/NC,NC-00400,NC-20500
+nc,,"Oxford, NC Micro Area",NC-00400,NC-37080
 nc,Franklin/Vance+Warren (W) Counties PUMA,Raleigh/NC,NC-00500,NC-39580
+nc,,"Oxford, NC Micro Area",NC-00500,NC-37080
 nc,,,NC-00600,NC-24660
 nc,,,NC-00600,NC-49180
 nc,,,NC-00600,NC-16740
+nc,,"Roanoke Rapids, NC Micro Area",NC-00600,NC-40260
 nc,NE Albemarle Sound Region PUMA,Virginia Beach-Norfolk-Newport News/VA-NC,NC-00700,NC-47260
+nc,,"Elizabeth City, NC Micro Area",NC-00700,NC-21020
+nc,,"Albemarle, NC Micro Area",NC-00700,NC-10620
 nc,,,NC-00800,NC-16740
 nc,,,NC-00800,NC-49180
 nc,,,NC-00800,NC-25860
 nc,,,NC-00800,NC-48900
 nc,,,NC-00800,NC-34820
+nc,,"Albemarle, NC Micro Area",NC-00800,NC-10620
 nc,Nash+Edgecombe Counties-Rocky Mount City PUMA,Rocky Mount/NC,NC-00900,NC-40580
 nc,,,NC-00901,NC-16740
 nc,,,NC-00902,NC-16740
@@ -2099,7 +2202,9 @@ nc,,,NC-00904,NC-16740
 nc,,,NC-00905,NC-16740
 nc,,,NC-01000,NC-16740
 nc,,,NC-01000,NC-35100
+nc,,"Wilson, NC Micro Area",NC-01000,NC-48980
 nc,Johnston County PUMA,Raleigh/NC,NC-01100,NC-39580
+nc,,"Dunn, NC Micro Area",NC-01100,NC-20380
 nc,,,NC-01200,NC-16740
 nc,Raleigh City (S+Central) PUMA,Raleigh/NC,NC-01201,NC-39580
 nc,Raleigh City (N) PUMA,Raleigh/NC,NC-01202,NC-39580
@@ -2114,6 +2219,7 @@ nc,Durham County (S)-Durham City (S) PUMA,Durham-Chapel Hill/NC,NC-01301,NC-2050
 nc,Durham County (N)-Durham City (N) PUMA,Durham-Chapel Hill/NC,NC-01302,NC-20500
 nc,Orange County-Chapel Hill Town PUMA,Durham-Chapel Hill/NC,NC-01400,NC-20500
 nc,Chatham+Lee Counties PUMA,Durham-Chapel Hill/NC,NC-01500,NC-20500
+nc,,"Sanford, NC Micro Area",NC-01500,NC-41820
 nc,Alamance County-Burlington City PUMA,Burlington/NC,NC-01600,NC-15500
 nc,,,NC-01601,NC-24660
 nc,,,NC-01602,NC-24660
@@ -2142,6 +2248,8 @@ nc,,,NC-02400,NC-15500
 nc,,,NC-02400,NC-42340
 nc,Henderson+Transylvania Counties PUMA,Asheville/NC,NC-02500,NC-11700
 nc,,,NC-02600,NC-20500
+nc,,"Forest City, NC Micro Area",NC-02600,NC-22580
+nc,,"Shelby, NC Micro Area",NC-02600,NC-43140
 nc,,,NC-02601,NC-39580
 nc,,,NC-02602,NC-39580
 nc,,,NC-02602,NC-20500
@@ -2178,18 +2286,25 @@ nc,Randolph County PUMA,Greensboro-High Point/NC,NC-03600,NC-24660
 nc,,,NC-03700,NC-22180
 nc,,,NC-03700,NC-11700
 nc,,,NC-03700,NC-16740
+nc,,"Sanford, NC Micro Area",NC-03700,NC-41820
+nc,,"Pinehurst-Southern Pines, NC Micro Area",NC-03700,NC-38240
 nc,,,NC-03800,NC-22180
+nc,,"Dunn, NC Micro Area",NC-03800,NC-20380
+nc,,"Sanford, NC Micro Area",NC-03800,NC-41820
 nc,,,NC-03900,NC-22180
 nc,,,NC-03900,NC-16740
 nc,,,NC-03900,NC-24780
 nc,,,NC-03900,NC-35100
 nc,,,NC-03900,NC-27340
+nc,,"Dunn, NC Micro Area",NC-03900,NC-20380
 nc,Wayne County PUMA,Goldsboro/NC,NC-04000,NC-24140
 nc,Lenoir/Onslow (N)+Jones Counties PUMA,Jacksonville/NC,NC-04100,NC-27340
 nc,Lenoir/Onslow (N)+Jones Counties PUMA,New Bern/NC,NC-04100,NC-35100
+nc,,"Kinston, NC Micro Area",NC-04100,NC-28820
 nc,Pitt County-Greenville City PUMA,Greenville/NC,NC-04200,NC-24780
 nc,Craven County PUMA,New Bern/NC,NC-04300,NC-35100
 nc,Carteret/Beaufort+Pamlico Counties PUMA,New Bern/NC,NC-04400,NC-35100
+nc,,"Morehead City, NC Micro Area",NC-04400,NC-33980
 nc,Onslow County (S)-Jacksonville City PUMA,Jacksonville/NC,NC-04500,NC-27340
 nc,Pender+New Hanover (N) Counties PUMA,Wilmington/NC,NC-04600,NC-48900
 nc,New Hanover County (S)-Wilmington City PUMA,Wilmington/NC,NC-04700,NC-48900
@@ -2199,6 +2314,7 @@ nc,,,NC-04900,NC-35100
 nc,,,NC-04900,NC-12260
 nc,Cumberland County (Central)-Fayetteville City (Central+E) PUMA,Fayetteville/NC,NC-05001,NC-22180
 nc,Cumberland County (E)-Hope Mills+Spring Lake Towns PUMA,Fayetteville/NC,NC-05002,NC-22180
+nc,,"Dunn, NC Micro Area",NC-05002,NC-20380
 nc,Cumberland County (W)-Fayetteville City (W) PUMA,Fayetteville/NC,NC-05003,NC-22180
 nc,,,NC-05100,NC-22180
 nc,,,NC-05100,NC-31300
@@ -2207,6 +2323,7 @@ nc,Hoke/Richmond+Scotland Counties PUMA,Fayetteville/NC,NC-05200,NC-22180
 nc,Union (E)+Anson Counties-Monroe City PUMA,Charlotte-Concord-Gastonia/NC-SC,NC-05300,NC-16740
 nc,Union County (W)-Indian Trail+Stallings Towns PUMA,Charlotte-Concord-Gastonia/NC-SC,NC-05400,NC-16740
 nd,W N Dakota-Minot City PUMA,Bismarck/ND,ND-00100,ND-13900
+nd,,"Minot, ND Micro Area",ND-00100,ND-33500
 nd,,,ND-00200,ND-13900
 nd,,,ND-00200,ND-22020
 nd,S Central N Dakota-Bismarck City PUMA,Bismarck/ND,ND-00300,ND-13900
@@ -2221,6 +2338,7 @@ ne,NE Nebraska PUMA,Sioux City/IA-NE-SD,NE-00200,NE-43580
 ne,Central Nebraska PUMA,Grand Island/NE,NE-00300,NE-24260
 ne,,,NE-00400,NE-24260
 ne,,,NE-00500,NE-24260
+ne,,"Kearney, NE Micro Area",NE-00500,NE-28260
 ne,SE Nebraska PUMA,Lincoln/NE,NE-00600,NE-30700
 ne,Dodge/Cass/Saunders+Washington Counties PUMA,Omaha-Council Bluffs/NE-IA,NE-00701,NE-36540
 ne,Sarpy County-Bellevue City PUMA,Omaha-Council Bluffs/NE-IA,NE-00702,NE-36540
@@ -2232,9 +2350,11 @@ ne,Douglas County-Omaha City (NE) PUMA,Omaha-Council Bluffs/NE-IA,NE-00903,NE-36
 ne,Douglas County-Omaha City (SE) PUMA,Omaha-Council Bluffs/NE-IA,NE-00904,NE-36540
 nh,,,NH-00100,NH-17200
 nh,,,NH-00200,NH-14460
+nh,,"Laconia, NH Micro Area",NH-00200,NH-29060
 nh,Strafford Region-Strafford/Rockingham (Northern)+Carroll (SEern) Counties PUMA,Boston-Cambridge-Newton/MA-NH,NH-00300,NH-14460
 nh,,,NH-00400,NH-14460
 nh,,,NH-00400,NH-31700
+nh,,"Concord, NH Micro Area",NH-00400,NH-18180
 nh,,,NH-00500,NH-17200
 nh,,,NH-00500,NH-28300
 nh,Hillsborough County (Western) PUMA,Manchester-Nashua/NH,NH-00600,NH-31700
@@ -2323,6 +2443,7 @@ nj,Salem+Cumberland (N) Counties-Bridgeton City PUMA,Vineland-Bridgeton/NJ,NJ-02
 nj,Cape May+Atlantic (S Central) Counties-Ocean City+Somers Point City PUMA,Atlantic City-Hammonton/NJ,NJ-02600,NJ-12100
 nj,Cape May+Atlantic (S Central) Counties-Ocean City+Somers Point City PUMA,Ocean City/NJ,NJ-02600,NJ-36140
 nm,NW New Mexico-Navajo Nation PUMA,Farmington/NM,NM-00100,NM-22140
+nm,,"Gallup, NM Micro Area",NM-00100,NM-23700
 nm,San Juan County (NE)-Farmington/Bloomfield+Aztec Cities PUMA,Farmington/NM,NM-00200,NM-22140
 nm,,,NM-00300,NM-22140
 nm,,,NM-00300,NM-42140
@@ -2352,6 +2473,8 @@ nm,Doña Ana County (Outer) PUMA,Las Cruces/NM,NM-01001,NM-29740
 nm,Doña Ana County (Central)-Las Cruces/Mesilla Cities+University Park PUMA,Las Cruces/NM,NM-01002,NM-29740
 nm,,,NM-01100,NM-21340
 nm,,,NM-01100,NM-28660
+nm,,"Alamogordo, NM Micro Area",NM-01100,NM-10460
+nm,,"Roswell, NM Micro Area",NM-01100,NM-40740
 nm,,,NM-01200,NM-16100
 nm,,,NM-01200,NM-26020
 nv,,,NV-00100,NV-39900
@@ -2361,9 +2484,12 @@ nv,Washoe County (S) PUMA,Reno/NV,NV-00102,NV-39900
 nv,Washoe County (N)-Sparks City PUMA,Reno/NV,NV-00103,NV-39900
 nv,Carson City/Lyon/Douglas+Storey Counties PUMA,Carson City/NV,NV-00200,NV-16180
 nv,Carson City/Lyon/Douglas+Storey Counties PUMA,Reno/NV,NV-00200,NV-39900
+nv,,"Fernley, NV Micro Area",NV-00200,NV-22280
 nv,,,NV-00300,NV-39900
 nv,,,NV-00300,NV-29820
 nv,,,NV-00300,NV-41100
+nv,,"Elko, NV Micro Area",NV-00300,NV-21220
+nv,,"Fernley, NV Micro Area",NV-00300,NV-22280
 nv,,,NV-00400,NV-16180
 nv,,,NV-00400,NV-39900
 nv,Clark County (NW Central)-NW Las Vegas Valley PUMA,Las Vegas-Henderson-Paradise/NV,NV-00401,NV-29820
@@ -2392,18 +2518,23 @@ nv,,,NV-00510,NV-29820
 nv,,,NV-00511,NV-29820
 ny,,,NY-00100,NY-36300
 ny,,,NY-00200,NY-46540
+ny,,"Malone, NY Micro Area",NY-00200,NY-31660
+ny,,"Plattsburgh, NY Micro Area",NY-00200,NY-38460
 ny,Warren+Washington Counties PUMA,Glens Falls/NY,NY-00300,NY-24020
 ny,Herkimer (N+Central)+Oneida (Outer) Counties PUMA,Utica-Rome/NY,NY-00401,NY-46540
 ny,Oneida County (Central)-Greater Utica+Rome Cities PUMA,Utica-Rome/NY,NY-00402,NY-46540
 ny,Otsego/Schoharie/Oneida (S)+Herkimer (S) Counties PUMA,Albany-Schenectady-Troy/NY,NY-00403,NY-10580
 ny,Otsego/Schoharie/Oneida (S)+Herkimer (S) Counties PUMA,Utica-Rome/NY,NY-00403,NY-46540
+ny,,"Oneonta, NY Micro Area",NY-00403,NY-36580
 ny,Jefferson+Lewis Counties PUMA,Watertown-Fort Drum/NY,NY-00500,NY-48060
 ny,Oswego County PUMA,Syracuse/NY,NY-00600,NY-45060
 ny,,,NY-00700,NY-45060
 ny,Onondaga County (Central)-Syracuse City PUMA,Syracuse/NY,NY-00701,NY-45060
 ny,Onondaga County (N) PUMA,Syracuse/NY,NY-00702,NY-45060
 ny,Onondaga County (Central)-Syracuse City (Outer) PUMA,Syracuse/NY,NY-00703,NY-45060
+ny,,"Auburn, NY Micro Area",NY-00703,NY-12180
 ny,Cayuga+Onondaga (S) Counties PUMA,Syracuse/NY,NY-00704,NY-45060
+ny,,"Auburn, NY Micro Area",NY-00704,NY-12180
 ny,Wayne+Seneca Counties PUMA,Rochester/NY,NY-00800,NY-40380
 ny,,,NY-00801,NY-45060
 ny,,,NY-00802,NY-45060
@@ -2416,6 +2547,7 @@ ny,Monroe County (Central)-Greece+Gates Towns PUMA,Rochester/NY,NY-00904,NY-4038
 ny,Monroe County (N+W) PUMA,Rochester/NY,NY-00905,NY-40380
 ny,Monroe County (S) PUMA,Rochester/NY,NY-00906,NY-40380
 ny,Genesee+Orleans Counties PUMA,Rochester/NY,NY-01000,NY-40380
+ny,,"Batavia, NY Micro Area",NY-01000,NY-12860
 ny,,,NY-01001,NY-40380
 ny,,,NY-01002,NY-40380
 ny,,,NY-01003,NY-40380
@@ -2442,6 +2574,7 @@ ny,,,NY-01501,NY-15380
 ny,,,NY-01502,NY-15380
 ny,,,NY-01600,NY-46540
 ny,,,NY-01600,NY-13780
+ny,,"Gloversville, NY Micro Area",NY-01600,NY-24100
 ny,,,NY-01601,NY-15380
 ny,,,NY-01602,NY-15380
 ny,,,NY-01603,NY-15380
@@ -2459,13 +2592,18 @@ ny,Albany County (E Central)-Albany City PUMA,Albany-Schenectady-Troy/NY,NY-0200
 ny,Albany County (Outside Albany City) PUMA,Albany-Schenectady-Troy/NY,NY-02002,NY-10580
 ny,,,NY-02100,NY-10580
 ny,,,NY-02100,NY-35620
+ny,,"Hudson, NY Micro Area",NY-02100,NY-26460
 ny,Broome County (W Central)-Greater Binghamton City+Greater Johnson City Village PUMA,Binghamton/NY,NY-02201,NY-13780
 ny,Broome (Outer W)+Tioga Counties PUMA,Binghamton/NY,NY-02202,NY-13780
 ny,Chenango/Delaware+Broome (E) Counties PUMA,Binghamton/NY,NY-02203,NY-13780
+ny,,"Oneonta, NY Micro Area",NY-02203,NY-36580
 ny,Tompkins County PUMA,Ithaca/NY,NY-02300,NY-27060
 ny,Chemung (S)+Steuben (E) Counties-Greater Elmira+Greater Corning Cities PUMA,Elmira/NY,NY-02401,NY-21300
+ny,,"Corning, NY Micro Area",NY-02401,NY-18500
 ny,Steuben (N+W)/Schuyler+Chemung (N) Counties PUMA,Elmira/NY,NY-02402,NY-21300
+ny,,"Corning, NY Micro Area",NY-02402,NY-18500
 ny,,,NY-02500,NY-10580
+ny,,"Olean, NY Micro Area",NY-02500,NY-36460
 ny,,,NY-02600,NY-27460
 ny,,,NY-02601,NY-13780
 ny,,,NY-02602,NY-13780
@@ -2633,6 +2771,9 @@ oh,,,OH-00610,OH-17460
 oh,,,OH-00611,OH-17460
 oh,,,OH-00612,OH-17460
 oh,,,OH-00700,OH-45780
+oh,,"Fremont, OH Micro Area",OH-00700,OH-23380
+oh,,"Sandusky, OH Micro Area",OH-00700,OH-41780
+oh,,"Norwalk, OH Micro Area",OH-00700,OH-35940
 oh,,,OH-00701,OH-17460
 oh,,,OH-00702,OH-17460
 oh,,,OH-00703,OH-17460
@@ -2663,6 +2804,7 @@ oh,,,OH-01201,OH-10420
 oh,,,OH-01202,OH-10420
 oh,,,OH-01300,OH-17460
 oh,Trumbull (Outside Warren City)+Mahoning (Outside Youngstown City) Counties PUMA,Youngstown-Warren-Boardman/OH-PA,OH-01400,OH-49660
+oh,,"Salem, OH Micro Area",OH-01400,OH-41400
 oh,Mahoning County (NE)-Youngstown City/Boardman+Austintown PUMA,Youngstown-Warren-Boardman/OH-PA,OH-01500,OH-49660
 oh,Trumbull County (S Central)-Warren+Niles Cities PUMA,Youngstown-Warren-Boardman/OH-PA,OH-01600,OH-49660
 oh,Portage County PUMA,Akron/OH,OH-01700,OH-10420
@@ -2674,28 +2816,40 @@ oh,Summit County (Central)-Akron City (E) PUMA,Akron/OH,OH-01803,OH-10420
 oh,Summit County (Central)-Akron (W)+Cuyahoga Falls (W) Cities PUMA,Akron/OH,OH-01804,OH-10420
 oh,Summit County (S)-Barberton/Green+New Franklin Cities PUMA,Akron/OH,OH-01805,OH-10420
 oh,Medina County PUMA,Cleveland-Elyria/OH,OH-01900,OH-17460
+oh,,"Salem, OH Micro Area",OH-01900,OH-41400
 oh,,,OH-02000,OH-31900
+oh,,"Wooster, OH Micro Area",OH-02000,OH-49300
+oh,,"Salem, OH Micro Area",OH-02000,OH-41400
 oh,,,OH-02100,OH-15940
 oh,,,OH-02100,OH-45780
 oh,,,OH-02100,OH-49660
+oh,,"Ashland, OH Micro Area",OH-02100,OH-11740
+oh,,"Norwalk, OH Micro Area",OH-02100,OH-35940
+oh,,"Wooster, OH Micro Area",OH-02100,OH-49300
+oh,,"Salem, OH Micro Area",OH-02100,OH-41400
 oh,Richland County PUMA,Mansfield/OH,OH-02200,OH-31900
 oh,,,OH-02201,OH-15940
 oh,,,OH-02202,OH-15940
 oh,,,OH-02203,OH-15940
 oh,,,OH-02300,OH-49660
 oh,,,OH-02300,OH-17460
+oh,,"Tiffin, OH Micro Area",OH-02300,OH-45660
 oh,,,OH-02400,OH-48260
 oh,,,OH-02400,OH-48540
 oh,,,OH-02400,OH-49660
+oh,,"Findlay, OH Micro Area",OH-02400,OH-22300
 oh,Allen County PUMA,Lima/OH,OH-02500,OH-30620
 oh,,,OH-02600,OH-18140
 oh,,,OH-02600,OH-49660
 oh,,,OH-02600,OH-10420
 oh,,,OH-02700,OH-18140
 oh,Marion/Knox+Morrow Counties PUMA,Columbus/OH,OH-02800,OH-18140
+oh,,"Marion, OH Micro Area",OH-02800,OH-32020
+oh,,"Mount Vernon, OH Micro Area",OH-02800,OH-34540
 oh,,,OH-02900,OH-17140
 oh,,,OH-02900,OH-30620
 oh,,,OH-03000,OH-30620
+oh,,"New Philadelphia-Dover, OH Micro Area",OH-03000,OH-35420
 oh,,,OH-03001,OH-44220
 oh,,,OH-03001,OH-19380
 oh,,,OH-03002,OH-18140
@@ -2715,12 +2869,16 @@ oh,Stark County (Central)-Canton+N Canton Cities PUMA,Canton-Massillon/OH,OH-032
 oh,Stark County (E)+Carroll County-Alliance City PUMA,Canton-Massillon/OH,OH-03300,OH-15940
 oh,,,OH-03400,OH-18140
 oh,,,OH-03400,OH-17460
+oh,,"Salem, OH Micro Area",OH-03400,OH-41400
 oh,Belmont+Jefferson Counties PUMA,Weirton-Steubenville/WV-OH,OH-03500,OH-48260
 oh,Belmont+Jefferson Counties PUMA,Wheeling/WV-OH,OH-03500,OH-48540
 oh,,,OH-03600,OH-18140
 oh,,,OH-03600,OH-48260
 oh,,,OH-03600,OH-48540
+oh,,"Marietta, OH Micro Area",OH-03600,OH-31930
+oh,,"Salem, OH Micro Area",OH-03600,OH-41400
 oh,Muskingum+Perry Counties PUMA,Columbus/OH,OH-03700,OH-18140
+oh,,"Zanesville, OH Micro Area",OH-03700,OH-49780
 oh,Licking County PUMA,Columbus/OH,OH-03800,OH-18140
 oh,Fairfield County PUMA,Columbus/OH,OH-03900,OH-18140
 oh,Delaware County PUMA,Columbus/OH,OH-04000,OH-18140
@@ -2745,6 +2903,7 @@ oh,,,OH-04402,OH-17140
 oh,,,OH-04403,OH-17140
 oh,,,OH-04404,OH-17140
 oh,,,OH-04500,OH-18140
+oh,,"Greenville, OH Micro Area",OH-04500,OH-24820
 oh,,,OH-04501,OH-17140
 oh,,,OH-04502,OH-17140
 oh,,,OH-04503,OH-17140
@@ -2755,9 +2914,14 @@ oh,Montgomery County (SE)-Kettering+Centerville Cities PUMA,Dayton/OH,OH-04604,O
 oh,Greene County PUMA,Dayton/OH,OH-04700,OH-19380
 oh,,,OH-04800,OH-18140
 oh,,,OH-04800,OH-26580
+oh,,"Chillicothe, OH Micro Area",OH-04800,OH-17060
+oh,,"Salem, OH Micro Area",OH-04800,OH-41400
 oh,Jackson/Hocking/Pike+Vinton Counties PUMA,Columbus/OH,OH-04900,OH-18140
+oh,,"Chillicothe, OH Micro Area",OH-04900,OH-17060
 oh,,,OH-05000,OH-37620
+oh,,"Athens, OH Micro Area",OH-05000,OH-11900
 oh,Scioto+Lawrence Counties PUMA,Huntington-Ashland/WV-KY-OH,OH-05100,OH-26580
+oh,,"Portsmouth, OH Micro Area",OH-05100,OH-39020
 oh,,,OH-05200,OH-18140
 oh,,,OH-05200,OH-19380
 oh,Warren County (E)-Lebanon+Springboro (E) Cities PUMA,Cincinnati/OH-KY-IN,OH-05301,OH-17140
@@ -2808,6 +2972,7 @@ ok,Oklahoma County (Central)-Oklahoma City (Central) PUMA,Oklahoma City/OK,OK-01
 ok,,,OK-01100,OK-46140
 ok,Grady/McClain+Pottawatomie (S) Counties PUMA,Oklahoma City/OK,OK-01101,OK-36420
 ok,Pottawatomie (N)/Logan+Lincoln Counties-Shawnee City PUMA,Oklahoma City/OK,OK-01102,OK-36420
+ok,,"Shawnee, OK Micro Area",OK-01102,OK-43060
 ok,,,OK-01200,OK-46140
 ok,Tulsa County (Central)-Tulsa City (Central) PUMA,Tulsa/OK,OK-01201,OK-46140
 ok,Tulsa County (SE)-Tulsa (SE)+Broken Arrow (W) Cities PUMA,Tulsa/OK,OK-01202,OK-46140
@@ -2815,14 +2980,18 @@ ok,Tulsa County (N)-Tulsa (N)+Owasso Cities PUMA,Tulsa/OK,OK-01203,OK-46140
 ok,Tulsa (W)/Creek (NE)+Osage (SE) Counties-Tulsa City (W) PUMA,Tulsa/OK,OK-01204,OK-46140
 ok,Rogers (Central)+Wagoner (W) Counties-Claremore City PUMA,Tulsa/OK,OK-01301,OK-46140
 ok,Muskogee/Okmulgee/Wagoner (E)+McIntosh Counties PUMA,Tulsa/OK,OK-01302,OK-46140
+ok,,"Muskogee, OK Micro Area",OK-01302,OK-34780
 ok,,,OK-01400,OK-36420
 ok,,,OK-01400,OK-46140
 ok,,,OK-01400,OK-22900
+ok,,"Enid, OK Metro Area",OK-01400,OK-21420
 ok,,,OK-01500,OK-36420
 ok,Payne/Seminole/Creek (SW)/Hughes+Okfuskee Counties-Stillwater City PUMA,Tulsa/OK,OK-01501,OK-46140
+ok,,"Stillwater, OK Micro Area",OK-01501,OK-44660
 ok,,,OK-01600,OK-36420
 ok,,,OK-01600,OK-46140
 ok,Washington/Osage (N+W)/Pawnee+Creek (NW) Counties PUMA,Tulsa/OK,OK-01601,OK-46140
+ok,,"Bartlesville, OK Micro Area",OK-01601,OK-12780
 ok,,,OK-01700,OK-36420
 or,,,OR-00100,OR-25840
 or,,,OR-00200,OR-13460
@@ -2830,6 +2999,7 @@ or,,,OR-00200,OR-38900
 or,,,OR-00300,OR-14260
 or,,,OR-00300,OR-13460
 or,,,OR-00300,OR-32780
+or,,"Klamath Falls, OR Micro Area",OR-00300,OR-28900
 or,Deschutes County PUMA,Bend-Redmond/OR,OR-00400,OR-13460
 or,Columbia/Lincoln/Clatsop+Tillamook Counties PUMA,Portland-Vancouver-Hillsboro/OR-WA,OR-00500,OR-38900
 or,Linn+Benton Counties PUMA,Albany/OR,OR-00600,OR-10540
@@ -2842,6 +3012,7 @@ or,Lane County (W Central)-Eugene City (W+S) PUMA,Eugene/OR,OR-00703,OR-21660
 or,Lane County (E Central)-Eugene (NE)+Springfield Cities PUMA,Eugene/OR,OR-00704,OR-21660
 or,Lane County (Outside Eugene+Springfield Cities) PUMA,Eugene/OR,OR-00705,OR-21660
 or,Josephine/Coos+Curry Counties PUMA,Grants Pass/OR,OR-00800,OR-24420
+or,,"Coos Bay, OR Micro Area",OR-00800,OR-18300
 or,,,OR-00900,OR-24420
 or,,,OR-00900,OR-32780
 or,Jackson County (Central)-Medford+Central Point Cities PUMA,Medford/OR,OR-00901,OR-32780
@@ -2849,6 +3020,7 @@ or,Jackson County (Outside Medford+Central Point Cities)-Ashland City PUMA,Medfo
 or,,,OR-01000,OR-21660
 or,,,OR-01000,OR-24420
 or,,,OR-01000,OR-32780
+or,,"Roseburg, OR Micro Area",OR-01000,OR-40700
 or,,,OR-01101,OR-41420
 or,,,OR-01102,OR-10540
 or,,,OR-01102,OR-18700
@@ -2890,10 +3062,12 @@ pa,,,PA-00200,PA-21500
 pa,,,PA-00200,PA-38300
 pa,,,PA-00300,PA-21500
 pa,,,PA-00300,PA-49660
+pa,,"DuBois, PA Micro Area",PA-00300,PA-20180
 pa,,,PA-00400,PA-35620
 pa,,,PA-00400,PA-20700
 pa,,,PA-00400,PA-42540
 pa,,,PA-00400,PA-14100
+pa,,"Sayre, PA Micro Area",PA-00400,PA-42380
 pa,Pike/Wayne+Susquehanna Counties PUMA,New York-Newark-Jersey City/NY-NJ-PA,PA-00500,PA-35620
 pa,Monroe County PUMA,E Stroudsburg/PA,PA-00600,PA-20700
 pa,,,PA-00700,PA-35620
@@ -2913,6 +3087,7 @@ pa,,,PA-00902,PA-14100
 pa,,,PA-00903,PA-42540
 pa,,,PA-00903,PA-14100
 pa,Northumberland+Montour Counties PUMA,Bloomsburg-Berwick/PA,PA-01000,PA-14100
+pa,,"Sunbury, PA Micro Area",PA-01000,PA-44980
 pa,,,PA-01100,PA-14100
 pa,,,PA-01100,PA-42540
 pa,,,PA-01100,PA-44300
@@ -2926,8 +3101,10 @@ pa,,,PA-01500,PA-32740
 pa,,,PA-01500,PA-47620
 pa,,,PA-01500,PA-36340
 pa,Lawrence+Beaver (N) Counties-New Castle City PUMA,Pittsburgh/PA,PA-01501,PA-38300
+pa,,"New Castle, PA Micro Area",PA-01501,PA-35260
 pa,Beaver County (S) PUMA,Pittsburgh/PA,PA-01502,PA-38300
 pa,Butler County PUMA,Pittsburgh/PA,PA-01600,PA-38300
+pa,,"Sunbury, PA Micro Area",PA-01600,PA-44980
 pa,Pittsburgh City (N) PUMA,Pittsburgh/PA,PA-01701,PA-38300
 pa,Pittsburgh City (S) PUMA,Pittsburgh/PA,PA-01702,PA-38300
 pa,,,PA-01703,PA-38300
@@ -2939,6 +3116,7 @@ pa,Allegheny County (SE)-W Mifflin Borough/McKeesport City+Munhall Borough PUMA,
 pa,Allegheny County (S Central)-Baldwin+Whitehall Boroughs PUMA,Pittsburgh/PA,PA-01806,PA-38300
 pa,Allegheny County (S)-Bethel Park Municipality+Jefferson Hills Borough PUMA,Pittsburgh/PA,PA-01807,PA-38300
 pa,Indiana+Armstrong Counties PUMA,Pittsburgh/PA,PA-01900,PA-38300
+pa,,"Indiana, PA Micro Area",PA-01900,PA-26860
 pa,Westmoreland County (NW)-Murrysville Municipality+New Kensington City PUMA,Pittsburgh/PA,PA-02001,PA-38300
 pa,Westmoreland County (SW)-Greensburg City PUMA,Pittsburgh/PA,PA-02002,PA-38300
 pa,Westmoreland County (E) PUMA,Pittsburgh/PA,PA-02003,PA-38300
@@ -2970,6 +3148,7 @@ pa,,,PA-02600,PA-44300
 pa,,,PA-02600,PA-11020
 pa,,,PA-02600,PA-37980
 pa,,,PA-02600,PA-16540
+pa,,"Pottsville, PA Micro Area",PA-02600,PA-39060
 pa,,,PA-02700,PA-25180
 pa,,,PA-02700,PA-11020
 pa,,,PA-02700,PA-16540
@@ -3154,6 +3333,7 @@ ri,,,RI-00600,RI-39300
 ri,,,RI-00700,RI-39300
 sc,,,SC-00100,SC-24860
 sc,Pickens+Oconee Counties-Easley+Clemson Cities PUMA,Greenville-Anderson-Mauldin/SC,SC-00101,SC-24860
+sc,,"Seneca, SC Micro Area",SC-00101,SC-42860
 sc,Greenville County (N)-Greer City (N+W)+Taylors (Central+E) PUMA,Greenville-Anderson-Mauldin/SC,SC-00102,SC-24860
 sc,Greenville County (N Central+Outside Greenville City)-Wade Hampton+Berea PUMA,Greenville-Anderson-Mauldin/SC,SC-00103,SC-24860
 sc,Greenville County (Central)-Greenville+Mauldin Cities PUMA,Greenville-Anderson-Mauldin/SC,SC-00104,SC-24860
@@ -3167,6 +3347,7 @@ sc,Spartanburg County (Central)-Spartanburg City PUMA,Spartanburg/SC,SC-00301,SC
 sc,Spartanburg County (Outside Spartanburg City)-Greer City (E) PUMA,Spartanburg/SC,SC-00302,SC-43900
 sc,Cherokee/Newberry/Chester+Union Counties PUMA,Charlotte-Concord-Gastonia/NC-SC,SC-00400,SC-16740
 sc,Cherokee/Newberry/Chester+Union Counties PUMA,Spartanburg/SC,SC-00400,SC-43900
+sc,,"Gaffney, SC Micro Area",SC-00400,SC-23500
 sc,,,SC-00500,SC-16740
 sc,York County (W+Outside Rock Hill City) PUMA,Charlotte-Concord-Gastonia/NC-SC,SC-00501,SC-16740
 sc,York County (E)-Rock Hill City+Fort Mill Town PUMA,Charlotte-Concord-Gastonia/NC-SC,SC-00502,SC-16740
@@ -3183,6 +3364,7 @@ sc,Lancaster/Chesterfield+Marlboro Counties PUMA,Charlotte-Concord-Gastonia/NC-S
 sc,Sumter/Clarendon/Williamsburg+Lee Counties-Sumter City PUMA,Sumter/SC,SC-00800,SC-44940
 sc,Florence+Darlington Counties-Florence City PUMA,Florence/SC,SC-00900,SC-22500
 sc,,,SC-01000,SC-25940
+sc,,"Georgetown, SC Micro Area",SC-01000,SC-23860
 sc,,,SC-01001,SC-17900
 sc,,,SC-01002,SC-17900
 sc,,,SC-01002,SC-12260
@@ -3198,10 +3380,12 @@ sc,,,SC-01300,SC-16740
 sc,,,SC-01300,SC-17900
 sc,,,SC-01300,SC-44940
 sc,,,SC-01300,SC-22500
+sc,,"Orangeburg, SC Micro Area",SC-01300,SC-36700
 sc,Beaufort+Jasper Counties-Hilton Head Island/Bluffton Towns+Beaufort City PUMA,Hilton Head Island-Bluffton-Beaufort/SC,SC-01400,SC-25940
 sc,Aiken+Edgefield Counties-Aiken+N Augusta Cities PUMA,Augusta-Richmond County/GA-SC,SC-01500,SC-12260
 sc,,,SC-01600,SC-22500
 sc,,,SC-01600,SC-44940
+sc,,"Greenwood, SC Micro Area",SC-01600,SC-24940
 sc,,,SC-01700,SC-44940
 sc,,,SC-01800,SC-17900
 sc,,,SC-01900,SC-25940
@@ -3241,8 +3425,10 @@ tn,,,TN-00700,TN-28940
 tn,,,TN-00700,TN-28700
 tn,,,TN-00700,TN-34980
 tn,,,TN-00700,TN-16860
+tn,,"Cookeville, TN Micro Area",TN-00700,TN-18260
 tn,,,TN-00800,TN-34980
 tn,,,TN-00800,TN-16860
+tn,,"Crossville, TN Micro Area",TN-00800,TN-18900
 tn,,,TN-00801,TN-28700
 tn,,,TN-00802,TN-28940
 tn,,,TN-00802,TN-28700
@@ -3250,13 +3436,16 @@ tn,Campbell/Claiborne/Scott/Morgan+Hancock Counties PUMA,Knoxville/TN,TN-00900,T
 tn,Hawkins+Sullivan (NW) Counties-Kingsport City PUMA,Kingsport-Bristol-Bristol/TN-VA,TN-01000,TN-28700
 tn,Sullivan County (SE)-Bristol City PUMA,Kingsport-Bristol-Bristol/TN-VA,TN-01100,TN-28700
 tn,Greene/Carter/Unicoi+Johnson Counties PUMA,Johnson City/TN,TN-01200,TN-27740
+tn,,"Greeneville, TN Micro Area",TN-01200,TN-24620
 tn,Washington County-Johnson City PUMA,Johnson City/TN,TN-01300,TN-27740
 tn,,,TN-01301,TN-28940
 tn,,,TN-01301,TN-34100
 tn,,,TN-01302,TN-28940
 tn,Hamblen/Cocke+Grainger Counties PUMA,Knoxville/TN,TN-01400,TN-28940
 tn,Hamblen/Cocke+Grainger Counties PUMA,Morristown/TN,TN-01400,TN-34100
+tn,,"Greeneville, TN Micro Area",TN-01400,TN-24620
 tn,Sevier+Jefferson Counties PUMA,Morristown/TN,TN-01500,TN-34100
+tn,,"Sevierville, TN Micro Area",TN-01500,TN-42940
 tn,,,TN-01600,TN-28940
 tn,Anderson/Union+Knox (N) Counties-Oak Ridge (E)+Clinton Cities PUMA,Knoxville/TN,TN-01601,TN-28940
 tn,Knox County (E) PUMA,Knoxville/TN,TN-01602,TN-28940
@@ -3265,6 +3454,7 @@ tn,Knox County (W)-Farragut Town PUMA,Knoxville/TN,TN-01604,TN-28940
 tn,Blount County PUMA,Knoxville/TN,TN-01700,TN-28940
 tn,Roane/Loudon+Monroe Counties-Oak Ridge City (W) PUMA,Knoxville/TN,TN-01800,TN-28940
 tn,Bradley/McMinn+Polk Counties-Cleveland City PUMA,Cleveland/TN,TN-01900,TN-17420
+tn,,"Athens, TN Micro Area",TN-01900,TN-11940
 tn,,,TN-02000,TN-34980
 tn,,,TN-02000,TN-17420
 tn,,,TN-02000,TN-16860
@@ -3273,6 +3463,7 @@ tn,Hamilton County (S)-Chattanooga (N)+Red Bank Cities PUMA,Chattanooga/TN-GA,TN
 tn,Hamilton County (N)-Soddy-Daisy City PUMA,Chattanooga/TN-GA,TN-02003,TN-16860
 tn,Rhea/Marion/Sequatchie/Grundy/Bledsoe+Meigs Counties PUMA,Chattanooga/TN-GA,TN-02100,TN-16860
 tn,,,TN-02200,TN-34980
+tn,,"Tullahoma-Manchester, TN Micro Area",TN-02200,TN-46100
 tn,,,TN-02201,TN-34980
 tn,,,TN-02202,TN-34980
 tn,,,TN-02203,TN-34980
@@ -3291,6 +3482,7 @@ tn,Nashville-Davidson (SE) PUMA,Nashville-Davidson-Murfreesboro-Franklin/TN,TN-0
 tn,Nashville-Davidson (SW) PUMA,Nashville-Davidson-Murfreesboro-Franklin/TN,TN-02505,TN-34980
 tn,Williamson County-Franklin+Brentwood Cities PUMA,Nashville-Davidson-Murfreesboro-Franklin/TN,TN-02600,TN-34980
 tn,Maury/Bedford+Marshall Counties PUMA,Nashville-Davidson-Murfreesboro-Franklin/TN,TN-02700,TN-34980
+tn,,"Tullahoma-Manchester, TN Micro Area",TN-02700,TN-46100
 tn,,,TN-02800,TN-32820
 tn,,,TN-02800,TN-27180
 tn,,,TN-02800,TN-34980
@@ -3326,7 +3518,9 @@ tx,,,TX-01000,TX-19100
 tx,,,TX-01000,TX-30980
 tx,Ark-Tex COG (E)-Bowie+Cass Counties PUMA,Texarkana/TX-AR,TX-01100,TX-45500
 tx,E Texas COG (NE)-Harrison/Upshur+Marion Counties PUMA,Longview/TX,TX-01200,TX-30980
+tx,,"Marshall, TX Micro Area",TX-01200,TX-32220
 tx,,,TX-01300,TX-30980
+tx,,"Athens, TX Micro Area",TX-01300,TX-11980
 tx,Kaufman County PUMA,Dallas-Fort Worth-Arlington/TX,TX-01400,TX-19100
 tx,,,TX-01500,TX-46340
 tx,,,TX-01500,TX-30980
@@ -3334,7 +3528,10 @@ tx,E Texas COG (Central)-Smith County (Outside Tyler City) PUMA,Tyler/TX,TX-0150
 tx,E Texas COG (Central)-Smith County (W)-Tyler City PUMA,Tyler/TX,TX-01502,TX-46340
 tx,E Texas COG (Central)-Gregg County-Longview City PUMA,Longview/TX,TX-01600,TX-30980
 tx,E Texas COG (SE)-Rusk/Cherokee+Panola Counties PUMA,Longview/TX,TX-01700,TX-30980
+tx,,"Jacksonville, TX Micro Area",TX-01700,TX-27380
 tx,,,TX-01800,TX-19100
+tx,,"Palestine, TX Micro Area",TX-01800,TX-37300
+tx,,"Athens, TX Micro Area",TX-01800,TX-11980
 tx,,,TX-01900,TX-47380
 tx,Collin County (SW)-Dallas (N)/Plano (S)+Richardson (N) Cities PUMA,Dallas-Fort Worth-Arlington/TX,TX-01901,TX-19100
 tx,Collin County (SW)-Plano City (W) PUMA,Dallas-Fort Worth-Arlington/TX,TX-01902,TX-19100
@@ -3437,8 +3634,12 @@ tx,,,TX-03900,TX-47380
 tx,,,TX-03900,TX-26420
 tx,,,TX-03900,TX-12420
 tx,,,TX-03900,TX-13140
+tx,,"Huntsville, TX Micro Area",TX-03900,TX-26660
+tx,,"Lufkin, TX Micro Area",TX-03900,TX-31260
 tx,,,TX-04000,TX-17780
 tx,,,TX-04000,TX-30980
+tx,,"Nacogdoches, TX Micro Area",TX-04000,TX-34860
+tx,,"Lufkin, TX Micro Area",TX-04000,TX-31260
 tx,Deep E Texas COG (E) PUMA,Beaumont-Port Arthur/TX,TX-04100,TX-13140
 tx,Orange+Hardin Counties PUMA,Beaumont-Port Arthur/TX,TX-04200,TX-13140
 tx,,,TX-04300,TX-13140
@@ -3550,13 +3751,16 @@ tx,Bexar County (NW)-San Antonio (Far NW)+Helotes Cities PUMA,San Antonio-New Br
 tx,Bexar County (N)-San Antonio City (Far N)+Timberwood Park PUMA,San Antonio-New Braunfels/TX,TX-05915,TX-41700
 tx,Bexar County (NE)-San Antonio (NE)/Universal City+Converse Cities PUMA,San Antonio-New Braunfels/TX,TX-05916,TX-41700
 tx,Alamo Area COG (NW)+Blanco County PUMA,San Antonio-New Braunfels/TX,TX-06000,TX-41700
+tx,,"Kerrville, TX Micro Area",TX-06000,TX-28500
 tx,Alamo Area COG (SW) PUMA,San Antonio-New Braunfels/TX,TX-06100,TX-41700
 tx,,,TX-06200,TX-41700
 tx,,,TX-06200,TX-47020
+tx,,"Eagle Pass, TX Micro Area",TX-06200,TX-20580
 tx,S Texas Development Council (N)-Webb County-Laredo City (Central) PUMA,Laredo/TX,TX-06301,TX-29700
 tx,S Texas Development Council-Webb County (N+E)-Laredo City (Outer) PUMA,Laredo/TX,TX-06302,TX-29700
 tx,,,TX-06400,TX-18580
 tx,,,TX-06400,TX-41700
+tx,,"Rio Grande City, TX Micro Area",TX-06400,TX-40100
 tx,Coastal Bend COG (NE) PUMA,Corpus Christi/TX,TX-06500,TX-18580
 tx,,,TX-06600,TX-32580
 tx,Coastal Bend COG-Nueces County-Corpus Christi City (Outer) PUMA,Corpus Christi/TX,TX-06601,TX-18580
@@ -3762,9 +3966,12 @@ va,Fairfax County (NE)-McLean+Idylwood PUMA,Washington-Arlington-Alexandria/DC-V
 va,Fairfax County (W Central)-Centreville (N+W)+Chantilly (S+W) PUMA,Washington-Arlington-Alexandria/DC-VA-MD-WV,VA-59309,VA-47900
 vt,NW Vermont-Chittenden/Franklin+Grand Isle Counties-Burlington City PUMA,Burlington-S Burlington/VT,VT-00100,VT-15540
 vt,,,VT-00200,VT-15540
+vt,,"Barre, VT Micro Area",VT-00200,VT-12740
 vt,,,VT-00300,VT-17200
+vt,,"Barre, VT Micro Area",VT-00300,VT-12740
 vt,,,VT-00400,VT-24020
 vt,,,VT-00400,VT-15540
+vt,,"Rutland, VT Micro Area",VT-00400,VT-40860
 wa,,,WA-00100,WA-13380
 wa,,,WA-00200,WA-34580
 wa,,,WA-00200,WA-42660
@@ -3839,6 +4046,7 @@ wa,,,WA-02102,WA-38900
 wa,,,WA-02200,WA-38900
 wa,Whatcom County-Bellingham City PUMA,Bellingham/WA,WA-10100,WA-13380
 wa,Skagit/Island+San Juan Counties PUMA,Mount Vernon-Anacortes/WA,WA-10200,WA-34580
+wa,,"Oak Harbor, WA Micro Area",WA-10200,WA-36020
 wa,Chelan+Douglas Counties PUMA,Wenatchee/WA,WA-10300,WA-48300
 wa,Stevens/Okanogan/Pend Oreille+Ferry Counties PUMA,Spokane-Spokane Valley/WA,WA-10400,WA-44060
 wa,Spokane County (N Central)-Spokane City (N) PUMA,Spokane-Spokane Valley/WA,WA-10501,WA-44060
@@ -3852,9 +4060,11 @@ wa,Benton County (E Central)-Kennewick+Richland (S) Cities PUMA,Kennewick-Richla
 wa,Walla Walla/Benton (Outer)+Franklin (Outer) Counties PUMA,Kennewick-Richland/WA,WA-10703,WA-28420
 wa,Walla Walla/Benton (Outer)+Franklin (Outer) Counties PUMA,Walla Walla/WA,WA-10703,WA-47460
 wa,,,WA-10800,WA-21260
+wa,,"Moses Lake, WA Micro Area",WA-10800,WA-34180
 wa,Yakima County (Central)-Greater Yakima City PUMA,Yakima/WA,WA-10901,WA-49420
 wa,Yakima County (Outer)-Sunnyside+Grandview Cities PUMA,Yakima/WA,WA-10902,WA-49420
 wa,Lewis/Klickitat+Skamania Counties PUMA,Portland-Vancouver-Hillsboro/OR-WA,WA-11000,WA-38900
+wa,,"Centralia, WA Micro Area",WA-11000,WA-16500
 wa,Clark County (SW)-Vancouver City (W+Central) PUMA,Portland-Vancouver-Hillsboro/OR-WA,WA-11101,WA-38900
 wa,Clark County (W Central)-Salmon Creek+Hazel Dell PUMA,Portland-Vancouver-Hillsboro/OR-WA,WA-11102,WA-38900
 wa,Clark County (SE)-Vancouver (E)/Camas+Washougal Cities PUMA,Portland-Vancouver-Hillsboro/OR-WA,WA-11103,WA-38900
@@ -3864,6 +4074,7 @@ wa,,,WA-11300,WA-10140
 wa,,,WA-11300,WA-43220
 wa,Thurston County (Central)-Olympia/Lacey+Tumwater Cities PUMA,Olympia-Tumwater/WA,WA-11401,WA-36500
 wa,Thurston County (Outer) PUMA,Olympia-Tumwater/WA,WA-11402,WA-36500
+wa,,"Centralia, WA Micro Area",WA-11402,WA-16500
 wa,Pierce County (Central)-Tacoma City (Central) PUMA,Seattle-Tacoma-Bellevue/WA,WA-11501,WA-42660
 wa,Pierce County (NW)-Peninsula Region+Tacoma City (W) PUMA,Seattle-Tacoma-Bellevue/WA,WA-11502,WA-42660
 wa,Pierce County (W Central)-Lakewood City+Joint Base Lewis-McChord PUMA,Seattle-Tacoma-Bellevue/WA,WA-11503,WA-42660
@@ -3908,13 +4119,17 @@ wi,,,WI-00500,WI-20740
 wi,,,WI-00600,WI-33460
 wi,W Central Wisconsin-Northern Mississippi Region PUMA,Minneapolis-St Paul-Bloomington/MN-WI,WI-00700,WI-33460
 wi,Grant/Green/Iowa/Richland+Lafayette Counties PUMA,Madison/WI,WI-00800,WI-31540
+wi,,"Platteville, WI Micro Area",WI-00800,WI-38420
 wi,La Crosse County PUMA,La Crosse-Onalaska/WI-MN,WI-00900,WI-29100
 wi,Sauk+Columbia Counties PUMA,Madison/WI,WI-01000,WI-31540
+wi,,"Baraboo, WI Micro Area",WI-01000,WI-12660
 wi,,,WI-01001,WI-31540
+wi,,"Beaver Dam, WI Micro Area",WI-01001,WI-13180
 wi,,,WI-01100,WI-31540
 wi,,,WI-01200,WI-31540
 wi,Marinette/Oconto/Door+Florence Counties PUMA,Green Bay/WI,WI-01300,WI-24580
 wi,Manitowoc+Kewaunee Counties PUMA,Green Bay/WI,WI-01301,WI-24580
+wi,,"Manitowoc, WI Micro Area",WI-01301,WI-31820
 wi,,,WI-01400,WI-24580
 wi,,,WI-01400,WI-11540
 wi,,,WI-01400,WI-22540
@@ -3923,8 +4138,11 @@ wi,Fond du Lac+Calumet Counties PUMA,Fond du Lac/WI,WI-01401,WI-22540
 wi,Outagamie County PUMA,Appleton/WI,WI-01500,WI-11540
 wi,Winnebago County PUMA,Oshkosh-Neenah/WI,WI-01501,WI-36780
 wi,Marathon County PUMA,Wausau/WI,WI-01600,WI-48140
+wi,,"Wisconsin Rapids-Marshfield, WI Micro Area",WI-01600,WI-49220
 wi,,,WI-01601,WI-33460
 wi,,,WI-01601,WI-31540
+wi,,"Stevens Point, WI Micro Area",WI-01601,WI-44620
+wi,,"Wisconsin Rapids-Marshfield, WI Micro Area",WI-01601,WI-49220
 wi,,,WI-01700,WI-48020
 wi,,,WI-01700,WI-48580
 wi,,,WI-01800,WI-16980
@@ -3954,6 +4172,7 @@ wi,Milwaukee City (S Central) PUMA,Milwaukee-Waukesha-W Allis/WI,WI-41004,WI-333
 wi,Milwaukee City (S) PUMA,Milwaukee-Waukesha-W Allis/WI,WI-41005,WI-33340
 wi,,,WI-50000,WI-48580
 wi,Barron/Polk/Clark+Chippewa (N) Counties PUMA,Eau Claire/WI,WI-55101,WI-20740
+wi,,"Wisconsin Rapids-Marshfield, WI Micro Area",WI-55101 ,WI-49220
 wi,St Croix+Dunn Counties PUMA,Minneapolis-St Paul-Bloomington/MN-WI,WI-55102,WI-33460
 wi,Eau Claire+Chippewa (S) Counties PUMA,Eau Claire/WI,WI-55103,WI-20740
 wi,Waukesha County (W) PUMA,Milwaukee-Waukesha-W Allis/WI,WI-70101,WI-33340
@@ -3962,7 +4181,10 @@ wi,Waukesha County (Central) PUMA,Milwaukee-Waukesha-W Allis/WI,WI-70301,WI-3334
 wv,Ohio/Marshall/Hancock+Brooke Counties PUMA,Weirton-Steubenville/WV-OH,WV-00100,WV-48260
 wv,Ohio/Marshall/Hancock+Brooke Counties PUMA,Wheeling/WV-OH,WV-00100,WV-48540
 wv,,,WV-00200,WV-34060
+wv,,"Clarksburg, WV Micro Area",WV-00200,WV-17220
+wv,,"Fairmont, WV Micro Area",WV-00200,WV-21900
 wv,Monongalia+Preston Counties-Morgantown City PUMA,Morgantown/WV,WV-00300,WV-34060
+wv,,"Fairmont, WV Micro Area",WV-00300,WV-21900
 wv,Berkeley/Jefferson/Mineral/Hampshire+Morgan Counties PUMA,Cumberland/MD-WV,WV-00400,WV-19060
 wv,Berkeley/Jefferson/Mineral/Hampshire+Morgan Counties PUMA,Hagerstown-Martinsburg/MD-WV,WV-00400,WV-25180
 wv,Berkeley/Jefferson/Mineral/Hampshire+Morgan Counties PUMA,Washington-Arlington-Alexandria/DC-VA-MD-WV,WV-00400,WV-47900
@@ -3987,6 +4209,7 @@ wv,,,WV-01100,WV-13220
 wv,,,WV-01100,WV-16620
 wv,,,WV-01100,WV-26580
 wv,Raleigh/Mercer+Fayette Counties PUMA,Beckley/WV,WV-01200,WV-13220
+wv,,"Bluefield, WV-VA Micro Area",WV-01200,WV-14140
 wv,,,WV-01300,WV-13220
 wy,,,WY-00100,WY-26820
 wy,,,WY-00100,WY-30860
@@ -3998,216 +4221,3 @@ wy,,,WY-00200,WY-16220
 wy,Laramie+Albany Counties PUMA,Cheyenne/WY,WY-00300,WY-16940
 wy,Natrona/Carbon+Converse Counties PUMA,Casper/WY,WY-00400,WY-16220
 wy,,,WY-00500,WY-16940
-al,,"Scottsboro, AL Micro Area",AL-00400,AL-42460
-al,,"Fort Payne, AL Micro Area",AL-00400,AL-22840
-al,,"Albertville, AL Micro Area",AL-00500,AL-10700
-al,,"Cullman, AL Micro Area",AL-00700,AL-18980
-al,,"Enterprise, AL Micro Area",AL-02300,AL-21460
-ar,,"Searcy, AR Micro Area",AR-00300,AR-42620
-ar,,"Russellville, AR Micro Area",AR-01300,AR-40780
-az,,"Payson, AZ Micro Area",AZ-00800,AZ-37740
-ca,,"Sonora, CA Micro Area",CA-00300,CA-43760
-ca,,"Clearlake, CA Micro Area",CA-03300,CA-17340
-co,,"Glenwood Springs, CO Micro Area",CO-00200,CO-24060
-co,,"Edwards, CO Micro Area",CO-00400,CO-20780
-co,,"Durango, CO Micro Area",CO-00900,CO-20420
-ct,,"Torrington, CT Micro Area",CT-00500,CT-45860
-fl,,"Key West, FL Micro Area",FL-08700,FL-28580
-fl,,"Palatka, FL Micro Area",FL-10700,FL-37260
-ga,,"St. Marys, GA Micro Area",GA-00100,GA-41220
-ga,,"Statesboro, GA Micro Area",GA-00300,GA-44340
-ga,,"Waycross, GA Micro Area",GA-00500,GA-48180
-ga,,"Dublin, GA Micro Area",GA-01300,GA-20140
-ga,,"Milledgeville, GA Micro Area",GA-01600,GA-33300
-ga,,"LaGrange, GA Micro Area",GA-02200,GA-29300
-ga,,"Calhoun, GA Micro Area",GA-02500,GA-15660
-ga,,"Jefferson, GA Micro Area",GA-03800,GA-27600
-hi,,"Kapaa, HI Micro Area",HI-00100,HI-28180
-ia,,"Mason City, IA Micro Area",IA-00200,IA-32380
-id,,"Twin Falls, ID Metro Area",ID-00900,ID-46300
-id,,"Rexburg, ID Micro Area",ID-01100,ID-39940
-il,,"Rochelle, IL Micro Area",IL-00104,IL-40300
-il,,"Galesburg, IL Micro Area",IL-00202,IL-23660
-in,,"Jasper, IN Micro Area",IN-00700,IN-27540
-in,,"Warsaw, IN Micro Area",IN-00800,IN-47700
-in,,"Richmond, IN Micro Area",IN-01100,IN-39980
-in,,"Marion, IN Micro Area",IN-02301,IN-31980
-ks,,"Salina, KS Micro Area",KS-00200,KS-41460
-ky,,"Glasgow, KY Micro Area",KY-00400,KY-23980
-ky,,"Frankfort, KY Micro Area",KY-01600,KY-23180
-ky,,"Danville, KY Micro Area",KY-02100,KY-19220
-la,,"Fort Polk South, LA Micro Area",LA-00700,LA-22860
-la,,"Opelousas, LA Micro Area",LA-01000,LA-36660
-la,,"Morgan City, LA Micro Area",LA-01300,LA-34020
-ma,,"Greenfield Town, MA Micro Area",MA-00200,MA-24640
-mi,,"Marquette, MI Micro Area",MI-00100,MI-32100
-mi,,"Holland, MI Micro Area",MI-00801,MI-26090
-mi,,"Ionia, MI Micro Area",MI-01100,MI-26960
-mi,,"Mount Pleasant, MI Micro Area",MI-01200,MI-34380
-mi,,"Owosso, MI Micro Area",MI-01704,MI-37020
-mi,,"Sturgis, MI Micro Area",MI-02200,MI-44780
-mi,,"Adrian, MI Micro Area",MI-02500,MI-10300
-mn,,"Brainerd, MN Micro Area",MN-00300,MN-14660
-mn,,"Fergus Falls, MN Micro Area",MN-00800,MN-22260
-mn,,"Winona, MN Micro Area",MN-02600,MN-49100
-mo,,"Warrensburg, MO Micro Area",MO-00800,MO-47660
-mo,,"Fort Leonard Wood, MO Micro Area",MO-01400,MO-22780
-mo,,"Farmington, MO Micro Area",MO-02100,MO-22100
-ms,,"Oxford, MS Micro Area",MS-00400,MS-37060
-ms,,"Tupelo, MS Micro Area",MS-00500,MS-46180
-ms,,"Columbus, MS Micro Area",MS-00600,MS-18060
-ms,,"Vicksburg, MS Micro Area",MS-01200,MS-46980
-ms,,"Laurel, MS Micro Area",MS-01400,MS-29860
-ms,,"Meridian, MS Micro Area",MS-01500,MS-32940
-ms,,"Picayune, MS Micro Area",MS-01900,MS-38100
-mt,,"Kalispell, MT Micro Area",MT-00100,MT-28060
-mt,,"Helena, MT Micro Area",MT-00300,MT-25740
-mt,,"Bozeman, MT Micro Area",MT-00500,MT-14580
-nc,,"Boone, NC Micro Area",NC-00100,NC-14380
-nc,,"North Wilkesboro, NC Micro Area",NC-00200,NC-35900
-nc,,"Mount Airy, NC Micro Area",NC-00200,NC-34340
-nc,,"Oxford, NC Micro Area",NC-00400,NC-37080
-nc,,"Roanoke Rapids, NC Micro Area",NC-00600,NC-40260
-nc,,"Elizabeth City, NC Micro Area",NC-00700,NC-21020
-nc,,"Albemarle, NC Micro Area",NC-00700,NC-10620
-nc,,"Wilson, NC Micro Area",NC-01000,NC-48980
-nc,,"Dunn, NC Micro Area",NC-01100,NC-20380
-nc,,"Sanford, NC Micro Area",NC-01500,NC-41820
-nc,,"Forest City, NC Micro Area",NC-02600,NC-22580
-nc,,"Shelby, NC Micro Area",NC-02600,NC-43140
-nc,,"Kinston, NC Micro Area",NC-04100,NC-28820
-nc,,"Morehead City, NC Micro Area",NC-04400,NC-33980
-nd,,"Minot, ND Micro Area",ND-00100,ND-33500
-ne,,"Kearney, NE Micro Area",NE-00500,NE-28260
-nh,,"Laconia, NH Micro Area",NH-00200,NH-29060
-nh,,"Concord, NH Micro Area",NH-00400,NH-18180
-nm,,"Gallup, NM Micro Area",NM-00100,NM-23700
-nm,,"Alamogordo, NM Micro Area",NM-01100,NM-10460
-nm,,"Roswell, NM Micro Area",NM-01100,NM-40740
-nv,,"Fernley, NV Micro Area",NV-00200,NV-22280
-nv,,"Elko, NV Micro Area",NV-00300,NV-21220
-ny,,"Malone, NY Micro Area",NY-00200,NY-31660
-ny,,"Plattsburgh, NY Micro Area",NY-00200,NY-38460
-ny,,"Oneonta, NY Micro Area",NY-00403,NY-36580
-ny,,"Auburn, NY Micro Area",NY-00703,NY-12180
-ny,,"Batavia, NY Micro Area",NY-01000,NY-12860
-ny,,"Gloversville, NY Micro Area",NY-01600,NY-24100
-ny,,"Hudson, NY Micro Area",NY-02100,NY-26460
-ny,,"Corning, NY Micro Area",NY-02401,NY-18500
-ny,,"Olean, NY Micro Area",NY-02500,NY-36460
-oh,,"Fremont, OH Micro Area",OH-00700,OH-23380
-oh,,"Sandusky, OH Micro Area",OH-00700,OH-41780
-oh,,"Norwalk, OH Micro Area",OH-00700,OH-35940
-oh,,"Salem, OH Micro Area",OH-01400,OH-41400
-oh,,"Wooster, OH Micro Area",OH-02000,OH-49300
-oh,,"Ashland, OH Micro Area",OH-02100,OH-11740
-oh,,"Tiffin, OH Micro Area",OH-02300,OH-45660
-oh,,"Findlay, OH Micro Area",OH-02400,OH-22300
-oh,,"Marion, OH Micro Area",OH-02800,OH-32020
-oh,,"Mount Vernon, OH Micro Area",OH-02800,OH-34540
-oh,,"Marietta, OH Micro Area",OH-03600,OH-31930
-oh,,"Zanesville, OH Micro Area",OH-03700,OH-49780
-oh,,"Greenville, OH Micro Area",OH-04500,OH-24820
-oh,,"Chillicothe, OH Micro Area",OH-04800,OH-17060
-oh,,"Athens, OH Micro Area",OH-05000,OH-11900
-oh,,"Portsmouth, OH Micro Area",OH-05100,OH-39020
-ok,,"Shawnee, OK Micro Area",OK-01102,OK-43060
-ok,,"Muskogee, OK Micro Area",OK-01302,OK-34780
-ok,,"Enid, OK Metro Area",OK-01400,OK-21420
-ok,,"Stillwater, OK Micro Area",OK-01501,OK-44660
-ok,,"Bartlesville, OK Micro Area",OK-01601,OK-12780
-or,,"Klamath Falls, OR Micro Area",OR-00300,OR-28900
-or,,"Coos Bay, OR Micro Area",OR-00800,OR-18300
-or,,"Roseburg, OR Micro Area",OR-01000,OR-40700
-pa,,"DuBois, PA Micro Area",PA-00300,PA-20180
-pa,,"Sayre, PA Micro Area",PA-00400,PA-42380
-pa,,"Sunbury, PA Micro Area",PA-01000,PA-44980
-pa,,"New Castle, PA Micro Area",PA-01501,PA-35260
-pa,,"Indiana, PA Micro Area",PA-01900,PA-26860
-pa,,"Pottsville, PA Micro Area",PA-02600,PA-39060
-sc,,"Seneca, SC Micro Area",SC-00101,SC-42860
-sc,,"Gaffney, SC Micro Area",SC-00400,SC-23500
-sc,,"Georgetown, SC Micro Area",SC-01000,SC-23860
-sc,,"Orangeburg, SC Micro Area",SC-01300,SC-36700
-sc,,"Greenwood, SC Micro Area",SC-01600,SC-24940
-tn,,"Cookeville, TN Micro Area",TN-00700,TN-18260
-tn,,"Crossville, TN Micro Area",TN-00800,TN-18900
-tn,,"Greeneville, TN Micro Area",TN-01200,TN-24620
-tn,,"Sevierville, TN Micro Area",TN-01500,TN-42940
-tn,,"Athens, TN Micro Area",TN-01900,TN-11940
-tx,,"Marshall, TX Micro Area",TX-01200,TX-32220
-tx,,"Athens, TX Micro Area",TX-01300,TX-11980
-tx,,"Jacksonville, TX Micro Area",TX-01700,TX-27380
-tx,,"Palestine, TX Micro Area",TX-01800,TX-37300
-tx,,"Huntsville, TX Micro Area",TX-03900,TX-26660
-tx,,"Lufkin, TX Micro Area",TX-03900,TX-31260
-tx,,"Nacogdoches, TX Micro Area",TX-04000,TX-34860
-tx,,"Kerrville, TX Micro Area",TX-06000,TX-28500
-tx,,"Eagle Pass, TX Micro Area",TX-06200,TX-20580
-tx,,"Rio Grande City, TX Micro Area",TX-06400,TX-40100
-vt,,"Barre, VT Micro Area",VT-00200,VT-12740
-vt,,"Rutland, VT Micro Area",VT-00400,VT-40860
-wa,,"Oak Harbor, WA Micro Area",WA-10200,WA-36020
-wa,,"Moses Lake, WA Micro Area",WA-10800,WA-34180
-wa,,"Centralia, WA Micro Area",WA-11000,WA-16500
-wi,,"Platteville, WI Micro Area",WI-00800,WI-38420
-wi,,"Baraboo, WI Micro Area",WI-01000,WI-12660
-wi,,"Beaver Dam, WI Micro Area",WI-01001,WI-13180
-wi,,"Manitowoc, WI Micro Area",WI-01301,WI-31820
-wi,,"Stevens Point, WI Micro Area",WI-01601,WI-44620
-wv,,"Clarksburg, WV Micro Area",WV-00200,WV-17220
-wv,,"Fairmont, WV Micro Area",WV-00200,WV-21900
-wv,,"Bluefield, WV-VA Micro Area",WV-01200,WV-14140
-al,,"Scottsboro, AL Micro Area",AL-00500,AL-42460
-al,,"Fort Payne, AL Micro Area",AL-01000,AL-22840
-al,,"Enterprise, AL Micro Area",AL-02500,AL-21460
-ga,,"Milledgeville, GA Micro Area",GA-04200,GA-33300
-ga,,"Calhoun, GA Micro Area",GA-02800,GA-15660
-il,,"Rochelle, IL Micro Area",IL-02601,IL-40300
-il,,"Galesburg, IL Micro Area",IL-02501,IL-23660
-in,,"Richmond, IN Micro Area",IN-01200,IN-39980
-in,,"Marion, IN Micro Area",IN-02302,IN-31980
-ky,,"Frankfort, KY Micro Area",KY-01800,KY-23180
-la,,"Morgan City, LA Micro Area",LA-02000,LA-34020
-mi,,"Marquette, MI Micro Area",MI-00200,MI-32100
-mi,,"Holland, MI Micro Area",MI-00802,MI-26090
-mi,,"Mount Pleasant, MI Micro Area",MI-01400,MI-34380
-mn,,"Brainerd, MN Micro Area",MN-00700,MN-14660
-ms,,"Laurel, MS Micro Area",MS-01700,MS-29860
-nc,,"Mount Airy, NC Micro Area",NC-00300,NC-34340
-nc,,"Oxford, NC Micro Area",NC-00500,NC-37080
-nc,,"Albemarle, NC Micro Area",NC-00800,NC-10620
-nc,,"Dunn, NC Micro Area",NC-03800,NC-20380
-nc,,"Sanford, NC Micro Area",NC-03700,NC-41820
-nv,,"Fernley, NV Micro Area",NV-00300,NV-22280
-ny,,"Oneonta, NY Micro Area",NY-02203,NY-36580
-ny,,"Auburn, NY Micro Area",NY-00704,NY-12180
-ny,,"Corning, NY Micro Area",NY-02402,NY-18500
-oh,,"Norwalk, OH Micro Area",OH-02100,OH-35940
-oh,,"Salem, OH Micro Area",OH-01900,OH-41400
-oh,,"Wooster, OH Micro Area",OH-02100,OH-49300
-oh,,"Chillicothe, OH Micro Area",OH-04900,OH-17060
-pa,,"Sunbury, PA Micro Area",PA-01600,PA-44980
-tn,,"Greeneville, TN Micro Area",TN-01400,TN-24620
-tx,,"Athens, TX Micro Area",TX-01800,TX-11980
-tx,,"Lufkin, TX Micro Area",TX-04000,TX-31260
-vt,,"Barre, VT Micro Area",VT-00300,VT-12740
-wa,,"Centralia, WA Micro Area",WA-11402,WA-16500
-wv,,"Fairmont, WV Micro Area",WV-00300,WV-21900
-il,,"Rochelle, IL Micro Area",IL-02700,IL-40300
-in,,"Richmond, IN Micro Area",IN-02600,IN-39980
-in,,"Marion, IN Micro Area",IN-02303,IN-31980
-ky,,"Frankfort, KY Micro Area",KY-02000,KY-23180
-mi,,"Holland, MI Micro Area",MI-00900,MI-26090
-nc,,"Dunn, NC Micro Area",NC-03900,NC-20380
-nc,,"Sanford, NC Micro Area",NC-03800,NC-41820
-oh,,"Salem, OH Micro Area",OH-02000,OH-41400
-in,,"Marion, IN Micro Area",IN-02304,IN-31980
-nc,,"Dunn, NC Micro Area",NC-05002,NC-20380
-oh,,"Salem, OH Micro Area",OH-02100,OH-41400
-in,,"Marion, IN Micro Area",IN-02305,IN-31980
-oh,,"Salem, OH Micro Area",OH-03400,OH-41400
-in,,"Marion, IN Micro Area",IN-02306,IN-31980
-oh,,"Salem, OH Micro Area",OH-03600,OH-41400
-in,,"Marion, IN Micro Area",IN-02307,IN-31980
-oh,,"Salem, OH Micro Area",OH-04800,OH-41400
