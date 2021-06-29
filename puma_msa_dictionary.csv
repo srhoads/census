@@ -1,4 +1,4 @@
-state,puma_description,msa_description,state_puma,state_msa
+ï»¿state,puma_description,msa_description,state_puma,state_msa
 ak,Anchorage Municipality (N) 2010-2019,Anchorage/AK,AK-00101,AK-11260
 ak,Anchorage Municipality (S) 2010-2019,Anchorage/AK,AK-00102,AK-11260
 ak,Matanuska-Susitna+Kenai Peninsula Boroughs 2010-2019,Anchorage/AK,AK-00200,AK-11260
@@ -156,7 +156,7 @@ az,Pinal County (Central)-Florence Town/Eloy (NE)+Coolidge Cities 2012-2019,Phoe
 az,Pinal County (W)-Maricopa/Casa Grande+Eloy (SE) Cities 2012-2019,Phoenix-Mesa-Scottsdale/AZ,AZ-00807,AZ-38060
 az,Cochise+Santa Cruz Counties-Sierra Vista City 2010-2019,Sierra Vista-Douglas/AZ,AZ-00900,AZ-43420
 ca,Del Norte/Lassen/Modoc/Plumas+Siskiyou Counties; Shasta County-Redding City 2010-2011,"Redding, CA",CA-00100,CA-39820
-ca,Del Norte/Lassen/Modoc/Plumas+Siskiyou Counties; Shasta County-Redding City 2010-2011,,CA-00100,CA-39900
+ca,Del Norte/Lassen/Modoc/Plumas+Siskiyou Counties; Shasta County-Redding City 2010-2011,"Washoe County (N)-Sparks City, NV (2000 Only)",CA-00100,CA-39900
 ca,Alameda County (N)-Berkeley+Albany Cities 2012-2019,San Francisco-Oakland-Hayward/CA,CA-00101,CA-41860
 ca,Alameda County (NW)-Oakland (NW)+Emeryville Cities 2012-2019,San Francisco-Oakland-Hayward/CA,CA-00102,CA-41860
 ca,Alameda County (NE)-Oakland (E)+Piedmont Cities 2012-2019,San Francisco-Oakland-Hayward/CA,CA-00103,CA-41860
@@ -167,7 +167,7 @@ ca,Alameda County (Central)-Hayward City 2012-2019,San Francisco-Oakland-Hayward
 ca,Alameda County (SW)-Union City/Newark+Fremont (W) Cities 2012-2019,San Francisco-Oakland-Hayward/CA,CA-00108,CA-41860
 ca,Alameda County (S Central)-Fremont City (E) 2012-2019,San Francisco-Oakland-Hayward/CA,CA-00109,CA-41860
 ca,Alameda County (E)-Livermore/Pleasanton+Dublin Cities 2012-2019,San Francisco-Oakland-Hayward/CA,CA-00110,CA-41860
-ca,Humboldt County 2010-2011,,CA-00200,CA-21700
+ca,Humboldt County 2010-2011,"Eureka-Arcata-Fortuna, CA Micro Area",CA-00200,CA-21700
 ca,Alpine/Amador/Calaveras/Inyo/Mariposa/Mono+Tuolumne Counties 2010-2019,"Redding, CA",CA-00300,CA-39820
 ca,Alpine/Amador/Calaveras/Inyo/Mariposa/Mono+Tuolumne Counties 2010-2019,"Sacramento--Roseville--Arden-Arcade, CA",CA-00300,CA-40900
 ca,Alpine/Amador/Calaveras/Inyo/Mariposa/Mono+Tuolumne Counties 2010-2019,"Sonora, CA Micro Area",CA-00300,CA-43760
@@ -187,7 +187,7 @@ ca,Butte County (SE)-Oroville City+Paradise Town; Placer County (East/High Count
 ca,Butte County (SE)-Oroville City+Paradise Town; Placer County (East/High Country Region)-Auburn+Colfax Cities; Sutter+Yuba Counties-Yuba City; Del Norte/Lassen/Modoc/Plumas+Siskiyou Counties 2010-2011,"Yuba City, CA",CA-00800,CA-49700
 ca,Yolo County-Davis/Woodland+W Sacramento Cities 2010-2011,"Sacramento--Roseville--Arden-Arcade, CA",CA-00900,CA-40900
 ca,Napa County-Napa City 2010-2011,"Napa, CA",CA-01000,CA-34900
-ca,Colusa/Glenn/Tehama+Trinity Counties 2012-2019,,CA-01100,CA-39780
+ca,Colusa/Glenn/Tehama+Trinity Counties 2012-2019,"Red Bluff, CA Micro Area",CA-01100,CA-39780
 ca,Sonoma County (N)-Windsor Town/Healdsburg+Sonoma Cities 2010-2011,"Santa Rosa, CA",CA-01101,CA-42220
 ca,Sonoma County (S)-Petaluma/Rohnert Park+Cotati Cities 2010-2011,"Santa Rosa, CA",CA-01102,CA-42220
 ca,Sonoma County (Central)-Santa Rosa City 2010-2011,"Santa Rosa, CA",CA-01103,CA-42220
@@ -245,7 +245,7 @@ ca,San Francisco County (Central)-S of Market+Potrero; San Francisco County (Cen
 ca,San Francisco County (Central)-Sunset District (N) 2010-2011,"San Francisco-Oakland-Hayward, CA",CA-02205,CA-41860
 ca,San Francisco County (N+W)-Richmond District; San Francisco County (S Central)-Sunset District (S); San Mateo County (N Central)-Daly City/Pacifica Cities+Colma Town 2010-2011,"San Francisco-Oakland-Hayward, CA",CA-02206,CA-41860
 ca,San Francisco County (Central)-Inner Mission+Castro; San Francisco County (S Central)-Bayview+Hunters Point; San Mateo County (N Central)-S San Francisco/San Bruno+Brisbane Cities 2010-2011,"San Francisco-Oakland-Hayward, CA",CA-02207,CA-41860
-ca,Humboldt County 2012-2019,,CA-02300,CA-21700
+ca,Humboldt County 2012-2019,"Eureka-Arcata-Fortuna, CA Micro Area",CA-02300,CA-21700
 ca,San Mateo County (N Central)-Daly City/Pacifica Cities+Colma Town; San Mateo County (N Central)-S San Francisco/San Bruno+Brisbane Cities 2010-2011,"San Francisco-Oakland-Hayward, CA",CA-02301,CA-41860
 ca,San Mateo County (N Central)-Daly City/Pacifica Cities+Colma Town; San Mateo County (N Central)-S San Francisco/San Bruno+Brisbane Cities; San Mateo County (Central)-San Mateo (N)/Burlingame+Millbrae Cities 2010-2011,"San Francisco-Oakland-Hayward, CA",CA-02302,CA-41860
 ca,San Mateo County (Central)-San Mateo (N)/Burlingame+Millbrae Cities; San Mateo County (S+W)-San Mateo (S)+Half Moon Bay Cities 2010-2011,"San Francisco-Oakland-Hayward, CA",CA-02303,CA-41860
@@ -300,7 +300,7 @@ ca,Kings County-Hanford City 2010-2019,Hanford-Corcoran/CA,CA-03100,CA-25260
 ca,Alpine/Amador/Calaveras/Inyo/Mariposa/Mono+Tuolumne Counties; Madera County-Madera City; Merced County (W+S)-Los Banos+Livingston Cities 2010-2011,"Madera, CA",CA-03200,CA-31460
 ca,Alpine/Amador/Calaveras/Inyo/Mariposa/Mono+Tuolumne Counties; Madera County-Madera City; Merced County (W+S)-Los Banos+Livingston Cities 2010-2011,"Merced, CA",CA-03200,CA-32900
 ca,Lake+Mendocino Counties 2012-2019,"Clearlake, CA Micro Area",CA-03300,CA-17340
-ca,Lake+Mendocino Counties 2012-2019,,CA-03300,CA-46380
+ca,Lake+Mendocino Counties 2012-2019,"Ukiah, CA Micro Area",CA-03300,CA-46380
 ca,Fresno County (W)-Selma/Kerman+Coalinga Cities; Fresno County (Central)-Fresno City (E Central); Fresno County (Central)-Fresno City (SW); Fresno County (Central)-Fresno City (SE); Fresno County (Central)-Clovis City 2010-2011,"Fresno, CA",CA-03301,CA-23420
 ca,Fresno County (N Central)-Fresno City (N); Fresno County (Central)-Clovis City 2010-2011,"Fresno, CA",CA-03302,CA-23420
 ca,Fresno County (W)-Selma/Kerman+Coalinga Cities; Fresno County (N Central)-Fresno City (N); Fresno County (Central)-Fresno City (SW); Merced County (W+S)-Los Banos+Livingston Cities 2010-2011,"Fresno, CA",CA-03401,CA-23420
@@ -448,7 +448,7 @@ ca,Los Angeles County (S Central)-LA City (S Central/Westmont); Los Angeles Coun
 ca,Los Angeles County (S Central)-LA City (S Central/Westmont); Los Angeles County (S Central)-Gardena/Lawndale Cities+W Athens; Los Angeles County (S Central)-Torrance City; Los Angeles County (S Central)-Carson City; Los Angeles County (S)-Long Beach City (SW+Port); Los Angeles County (S)-LA City (South/San Pedro); Los Angeles County (SW)-Palos Verdes Peninsula 2010-2011,"Los Angeles-Long Beach-Anaheim, CA",CA-05424,CA-31080
 ca,Napa County-Napa City 2010-2019,Napa/CA,CA-05500,CA-34900
 ca,Los Angeles County (S Central)-Gardena/Lawndale Cities+W Athens; Los Angeles County-Redondo Beach/Manhattan Beach+Hermosa Beach Cities; Los Angeles County (S Central)-Torrance City; Los Angeles County (S)-LA City (South/San Pedro); Los Angeles County (SW)-Palos Verdes Peninsula 2010-2011,"Los Angeles-Long Beach-Anaheim, CA",CA-05600,CA-31080
-ca,Nevada+Sierra Counties 2012-2019,,CA-05700,CA-46020
+ca,Nevada+Sierra Counties 2012-2019,"Truckee-Grass Valley, CA Micro Area",CA-05700,CA-46020
 ca,Los Angeles County (S Central)-Compton City+W Rancho Dominguez; Los Angeles County (S Central)-Carson City; Los Angeles County (S Central)-Long Beach City (N); Los Angeles County (S)-Lakewood/Cerritos/Artesia+Hawaiian Gardens Cities; Los Angeles County (SE)-Long Beach (Central)+Signal Hill Cities 2010-2011,"Los Angeles-Long Beach-Anaheim, CA",CA-05701,CA-31080
 ca,Los Angeles County (S)-Long Beach City (SW+Port); Los Angeles County (S)-LA City (South/San Pedro); Los Angeles County (SE)-Long Beach (Central)+Signal Hill Cities 2010-2011,"Los Angeles-Long Beach-Anaheim, CA",CA-05702,CA-31080
 ca,Los Angeles County (S)-Lakewood/Cerritos/Artesia+Hawaiian Gardens Cities; Los Angeles County (SE)-Long Beach City (E); Los Angeles County (S)-Long Beach City (SW+Port); Los Angeles County (SE)-Long Beach (Central)+Signal Hill Cities; Orange County (NW)-Buena Park/Cypress+Seal Beach Cities 2010-2011,"Los Angeles-Long Beach-Anaheim, CA",CA-05703,CA-31080
@@ -1099,7 +1099,7 @@ fl,Seminole County (W) 2012-2019,Orlando-Kissimmee-Sanford/FL,FL-11701,FL-36740
 fl,Seminole County (N Central) 2012-2019,Orlando-Kissimmee-Sanford/FL,FL-11702,FL-36740
 fl,Seminole County (S Central) 2012-2019,Orlando-Kissimmee-Sanford/FL,FL-11703,FL-36740
 fl,Seminole County (E) 2012-2019,Orlando-Kissimmee-Sanford/FL,FL-11704,FL-36740
-fl,Suwannee/Taylor/Madison/Hamilton+Lafayette Counties 2012-2019,,FL-12100,FL-29380
+fl,Suwannee/Taylor/Madison/Hamilton+Lafayette Counties 2012-2019,"Lake City, FL Micro Area",FL-12100,FL-29380
 fl,Volusia County (Central+NW)-DeLand/DeBary Cities+Pierson Town 2012-2019,Deltona-Daytona Beach-Ormond Beach/FL,FL-12701,FL-19660
 fl,Volusia County (NE)-Daytona Beach/Ormond Beach+Holly Hill Cities 2012-2019,Deltona-Daytona Beach-Ormond Beach/FL,FL-12702,FL-19660
 fl,Volusia County-Port Orange/Edgewater/New Smyrna Beach (E)+Oak Hill Cities 2012-2019,Deltona-Daytona Beach-Ormond Beach/FL,FL-12703,FL-19660
@@ -1232,7 +1232,7 @@ ga,Atlanta Regional Commission (SE)-Henry County (S)-McDonough City 2012-2019,At
 ga,Atlanta Regional Commission (SE)-Henry County (N)-Stockbridge City 2012-2019,Atlanta-Sandy Springs-Roswell/GA,GA-06002,GA-12060
 hi,Maui/Kalawao+Kauai Counties 2010-2019,Kahului-Wailuku-Lahaina/HI,HI-00100,HI-27980
 hi,Maui/Kalawao+Kauai Counties 2010-2019,"Kapaa, HI Micro Area",HI-00100,HI-28180
-hi,Hawaii County 2010-2019,,HI-00200,HI-25900
+hi,Hawaii County 2010-2019,"Hilo, HI Micro Area",HI-00200,HI-25900
 hi,Honolulu County-Rural Oahu 2010-2019,Urban Honolulu/HI,HI-00301,HI-46520
 hi,Honolulu County-Koolaupoko 2010-2019,Urban Honolulu/HI,HI-00302,HI-46520
 hi,Honolulu County-E Honolulu to Kapahulu 2010-2019,Urban Honolulu/HI,HI-00303,HI-46520
@@ -1295,7 +1295,7 @@ il,Rock Island County; Henry/Mercer/Henderson/Warren/Hancock/McDonough+Fulton Co
 il,Rock Island County; Henry/Mercer/Henderson/Warren/Hancock/McDonough+Fulton Counties; Knox/Stark/Bureau/Marshall+Woodford Counties 2010-2011,"Peoria, IL",IL-00102,IL-37900
 il,Rock Island County 2010-2011,"Davenport-Moline-Rock Island, IA-IL",IL-00103,IL-19340
 il,Jo Daviess/Carroll/Whiteside+Lee Counties 2012-2019,"Rochelle, IL Micro Area",IL-00104,IL-40300
-il,Jo Daviess/Carroll/Whiteside+Lee Counties 2012-2019,,IL-00104,IL-44580
+il,Jo Daviess/Carroll/Whiteside+Lee Counties 2012-2019,"Sterling, IL Micro Area",IL-00104,IL-44580
 il,Rock Island County 2012-2019,Davenport-Moline-Rock Island/IA-IL,IL-00105,IL-19340
 il,Henry/Mercer/Henderson/Warren/Hancock/McDonough+Fulton Counties; Adams/Pike/Brown/Schuyler+Mason Counties 2010-2011,"Davenport-Moline-Rock Island, IA-IL",IL-00200,IL-19340
 il,Henry/Mercer/Henderson/Warren/Hancock/McDonough+Fulton Counties 2012-2019,Davenport-Moline-Rock Island/IA-IL,IL-00202,IL-19340
@@ -1305,7 +1305,7 @@ il,Cass/Morgan/Scott/Greene/Macoupin/Jersey+Calhoun Counties; Madison County (W)
 il,Cass/Morgan/Scott/Greene/Macoupin/Jersey+Calhoun Counties 2012-2019,St Louis/MO-IL,IL-00401,IL-41180
 il,Montgomery/Bond/Clinton/Fayette+Effingham Counties; Madison County (E) 2010-2011,"St. Louis, MO-IL",IL-00500,IL-41180
 il,Montgomery/Bond/Clinton/Fayette+Effingham Counties 2012-2019,St Louis/MO-IL,IL-00501,IL-41180
-il,Douglas/Edgar/Coles+Cumberland Counties 2010-2019,,IL-00600,IL-16660
+il,Douglas/Edgar/Coles+Cumberland Counties 2010-2019,"Charleston-Mattoon, IL Micro Area",IL-00600,IL-16660
 il,Clark/Jasper/Crawford/Lawrence/Richland/Clay+Wayne Counties 2010-2019,,IL-00700,IL-16460
 il,Clark/Jasper/Crawford/Lawrence/Richland/Clay+Wayne Counties 2010-2019,,IL-00700,IL-20820
 il,Clark/Jasper/Crawford/Lawrence/Richland/Clay+Wayne Counties 2010-2019,,IL-00700,IL-34500
@@ -1342,7 +1342,7 @@ il,Champaign County-Champaign+Urbana Cities 2010-2019,Champaign-Urbana/IL,IL-021
 il,Livingston/Ford/Iroquois+Vermilion Counties 2010-2019,Champaign-Urbana/IL,IL-02200,IL-16580
 il,Livingston/Ford/Iroquois+Vermilion Counties 2010-2019,Danville/IL,IL-02200,IL-19180
 il,Kankakee County 2010-2019,Kankakee/IL,IL-02300,IL-28100
-il,LaSalle County 2010-2019,,IL-02400,IL-36860
+il,LaSalle County 2010-2019,"Ottawa-Peru, IL Micro Area",IL-02400,IL-36860
 il,LaSalle County; Knox/Stark/Bureau/Marshall+Woodford Counties 2010-2011,"Peoria, IL",IL-02500,IL-37900
 il,Knox/Stark/Bureau/Marshall+Woodford Counties 2012-2019,"Galesburg, IL Micro Area",IL-02501,IL-23660
 il,Knox/Stark/Bureau/Marshall+Woodford Counties 2012-2019,Peoria/IL,IL-02501,IL-37900
@@ -1557,7 +1557,7 @@ ks,Flint Hills Region-Emporia City 2010-2019,"Kansas City, MO-KS",KS-00900,KS-28
 ks,Flint Hills Region-Emporia City 2010-2019,"Manhattan, KS",KS-00900,KS-31740
 ks,Flint Hills Region-Emporia City 2010-2019,"Topeka, KS",KS-00900,KS-45820
 ks,Flint Hills Region-Emporia City 2010-2019,"Wichita, KS",KS-00900,KS-48620
-ks,Central Kansas-Hutchinson City 2010-2019,,KS-01000,KS-26740
+ks,Central Kansas-Hutchinson City 2010-2019,"Hutchinson, KS Micro Area",KS-01000,KS-26740
 ks,S Central Kansas 2010-2019,Wichita/KS,KS-01100,KS-48620
 ks,SW Kansas-Dodge City/Garden City+Liberal City 2010-2019,"Wichita, KS",KS-01200,KS-48620
 ks,Sedgwick (NW)+Harvey Counties-Wichita (NW)+Newton Cities; Sedgwick (NE)+Butler (N+E) Counties-Wichita City (NE); Sedgwick (S)+Butler (SW) Counties-Wichita (S)+Derby Cities 2010-2011,"Wichita, KS",KS-01300,KS-48620
@@ -1583,7 +1583,7 @@ ky,Barren River Area Development District (Central)-Warren County 2010-2019,Bowl
 ky,Lake Cumberland Area Development District (W) 2010-2019,"Bowling Green, KY",KY-00600,KY-14540
 ky,Lake Cumberland Area Development District (W) 2010-2019,"Elizabethtown-Fort Knox, KY",KY-00600,KY-21060
 ky,Lake Cumberland Area Development District (W) 2010-2019,,KY-00600,KY-34980
-ky,Lake Cumberland Area Development District (E) 2010-2019,,KY-00700,KY-43700
+ky,Lake Cumberland Area Development District (E) 2010-2019,"Somerset, KY Micro Area",KY-00700,KY-43700
 ky,Cumberland Valley Area Development District (N) 2010-2019,,KY-00800,KY-30940
 ky,Cumberland Valley Area Development District (N) 2010-2019,,KY-00800,KY-40080
 ky,Cumberland Valley Area Development District (S) 2010-2019,,KY-00900,KY-28700
@@ -1838,8 +1838,8 @@ mi,Eastern Upper Peninsula 2010-2019,"Marquette, MI Micro Area",MI-00200,MI-3210
 mi,Eastern Upper Peninsula 2010-2019,,MI-00200,MI-42300
 mi,NE Lower Peninsula 2010-2019,,MI-00300,MI-10980
 mi,NW Lower Peninsula (E) 2010-2019,,MI-00400,MI-15620
-mi,NW Lower Peninsula (E) 2010-2019,,MI-00400,MI-45900
-mi,NW Lower Peninsula (W) 2010-2019,,MI-00500,MI-45900
+mi,NW Lower Peninsula (E) 2010-2019,"Traverse City, MI Micro Area",MI-00400,MI-45900
+mi,NW Lower Peninsula (W) 2010-2019,"Traverse City, MI Micro Area",MI-00500,MI-45900
 mi,Newaygo/Mason/Oceana+Lake Counties 2010-2019,"Grand Rapids-Wyoming, MI",MI-00600,MI-24340
 mi,Muskegon County 2010-2019,Muskegon/MI,MI-00700,MI-34740
 mi,Bay+Midland Counties 2010-2011,"Bay City, MI",MI-00800,MI-13020
@@ -2318,7 +2318,7 @@ nc,Cumberland County (E)-Hope Mills+Spring Lake Towns 2012-2019,Fayetteville/NC,
 nc,Cumberland County (W)-Fayetteville City (W) 2012-2019,Fayetteville/NC,NC-05003,NC-22180
 nc,Robeson County (W)-Lumberton City 2012-2019,"Fayetteville, NC",NC-05100,NC-22180
 nc,Robeson County (W)-Lumberton City 2012-2019,,NC-05100,NC-29900
-nc,Robeson County (W)-Lumberton City 2012-2019,,NC-05100,NC-31300
+nc,Robeson County (W)-Lumberton City 2012-2019,"Lumberton, NC Micro Area",NC-05100,NC-31300
 nc,Hoke/Richmond+Scotland Counties 2012-2019,Fayetteville/NC,NC-05200,NC-22180
 nc,Union (E)+Anson Counties-Monroe City 2012-2019,Charlotte-Concord-Gastonia/NC-SC,NC-05300,NC-16740
 nc,Union County (W)-Indian Trail+Stallings Towns 2012-2019,Charlotte-Concord-Gastonia/NC-SC,NC-05400,NC-16740
@@ -2348,15 +2348,15 @@ ne,Douglas County-Omaha City (NW) 2010-2019,Omaha-Council Bluffs/NE-IA,NE-00901,
 ne,Douglas County-Omaha City (SW) 2010-2019,Omaha-Council Bluffs/NE-IA,NE-00902,NE-36540
 ne,Douglas County-Omaha City (NE) 2010-2019,Omaha-Council Bluffs/NE-IA,NE-00903,NE-36540
 ne,Douglas County-Omaha City (SE) 2010-2019,Omaha-Council Bluffs/NE-IA,NE-00904,NE-36540
-nh,Northern New Hampshire-Grafton+Coos Counties 2010-2019,,NH-00100,NH-17200
+nh,Northern New Hampshire-Grafton+Coos Counties 2010-2019,"Claremont-Lebanon, NH-VT Micro Area",NH-00100,NH-17200
 nh,Lakes Region-Belknap/Carroll+Merrimack (Northern) Counties 2010-2019,"Boston-Cambridge-Newton, MA-NH",NH-00200,NH-14460
 nh,Lakes Region-Belknap/Carroll+Merrimack (Northern) Counties 2010-2019,"Laconia, NH Micro Area",NH-00200,NH-29060
 nh,Strafford Region-Strafford/Rockingham (Northern)+Carroll (SEern) Counties 2010-2019,Boston-Cambridge-Newton/MA-NH,NH-00300,NH-14460
 nh,Central New Hampshire-Merrimack County (Central)-Concord City 2010-2019,"Boston-Cambridge-Newton, MA-NH",NH-00400,NH-14460
 nh,Central New Hampshire-Merrimack County (Central)-Concord City 2010-2019,"Concord, NH Micro Area",NH-00400,NH-18180
 nh,Central New Hampshire-Merrimack County (Central)-Concord City 2010-2019,"Manchester-Nashua, NH",NH-00400,NH-31700
-nh,SWern New Hampshire-Cheshire+Sullivan Counties 2010-2019,,NH-00500,NH-17200
-nh,SWern New Hampshire-Cheshire+Sullivan Counties 2010-2019,,NH-00500,NH-28300
+nh,SWern New Hampshire-Cheshire+Sullivan Counties 2010-2019,"Claremont-Lebanon, NH-VT Micro Area",NH-00500,NH-17200
+nh,SWern New Hampshire-Cheshire+Sullivan Counties 2010-2019,"Keene, NH Micro Area",NH-00500,NH-28300
 nh,Hillsborough County (Western) 2010-2019,Manchester-Nashua/NH,NH-00600,NH-31700
 nh,Outer Manchester City 2010-2019,Boston-Cambridge-Newton/MA-NH,NH-00700,NH-14460
 nh,Outer Manchester City 2010-2019,Manchester-Nashua/NH,NH-00700,NH-31700
@@ -2467,7 +2467,7 @@ nm,Albuquerque City (Central)+Bernalillo County (N Valley) 2012-2019,Albuquerque
 nm,Albuquerque City (NW Mesa)/Paradise Hills+Navajo Nation-Tohajiilee Chapter 2012-2019,Albuquerque/NM,NM-00805,NM-10740
 nm,Albuquerque City (SW Mesa)+Bernalillo County (SW Mesa+S Valley) 2012-2019,Albuquerque/NM,NM-00806,NM-10740
 nm,SW New Mexico 2010-2019,Albuquerque/NM,NM-00900,NM-10740
-nm,Eastern Plains New Mexico; Central SE New Mexico 2010-2011,,NM-01000,NM-17580
+nm,Eastern Plains New Mexico; Central SE New Mexico 2010-2011,"Clovis, NM Micro Area",NM-01000,NM-17580
 nm,Eastern Plains New Mexico; Central SE New Mexico 2010-2011,,NM-01000,NM-38780
 nm,Dona Ana County (Outer) 2012-2019,Las Cruces/NM,NM-01001,NM-29740
 nm,Dona Ana County (Central)-Las Cruces/Mesilla Cities+University Park 2012-2019,Las Cruces/NM,NM-01002,NM-29740
@@ -2475,8 +2475,8 @@ nm,Central SE New Mexico 2010-2019,"Alamogordo, NM Micro Area",NM-01100,NM-10460
 nm,Central SE New Mexico 2010-2019,,NM-01100,NM-21340
 nm,Central SE New Mexico 2010-2019,,NM-01100,NM-28660
 nm,Central SE New Mexico 2010-2019,"Roswell, NM Micro Area",NM-01100,NM-40740
-nm,Far SE New Mexico 2012-2019,,NM-01200,NM-16100
-nm,Far SE New Mexico 2012-2019,,NM-01200,NM-26020
+nm,Far SE New Mexico 2012-2019,"Carlsbad-Artesia, NM Micro Area",NM-01200,NM-16100
+nm,Far SE New Mexico 2012-2019,"Hobbs, NM Micro Area",NM-01200,NM-26020
 nv,Washoe County (N)-Sparks City; Washoe County (S Central)-Reno City; Washoe County (S); Carson City/Lyon/Douglas+Storey Counties; Rural Nevada 2010-2011,"Carson City, NV",NV-00100,NV-16180
 nv,Washoe County (N)-Sparks City; Washoe County (S Central)-Reno City; Washoe County (S); Carson City/Lyon/Douglas+Storey Counties; Rural Nevada 2010-2011,"Reno, NV",NV-00100,NV-39900
 nv,Washoe County (S Central)-Reno City 2012-2019,Reno/NV,NV-00101,NV-39900
@@ -2516,7 +2516,7 @@ nv,Las Vegas City (SE); Las Vegas City (S Central) 2010-2011,"Las Vegas-Henderso
 nv,Las Vegas City (SE) 2010-2011,"Las Vegas-Henderson-Paradise, NV",NV-00509,NV-29820
 nv,Clark County (W)-Las Vegas City (SW); Clark County (Central)-Spring Valley+Summerlin South; Clark County (Central)-Paradise (NW)+Winchester 2010-2011,"Las Vegas-Henderson-Paradise, NV",NV-00510,NV-29820
 nv,Clark County (Central)-Whitney/Sunrise Manor (S)+Paradise (NE); Clark County (Central)-Henderson City (W); Clark County (S)-Henderson (E)+Boulder Cities; Clark County (Central)-Paradise (S)+Enterprise 2010-2011,"Las Vegas-Henderson-Paradise, NV",NV-00511,NV-29820
-ny,St Lawrence County 2010-2019,,NY-00100,NY-36300
+ny,St Lawrence County 2010-2019,"Ogdensburg-Massena, NY Micro Area",NY-00100,NY-36300
 ny,Clinton/Franklin/Essex+Hamilton Counties 2010-2019,"Malone, NY Micro Area",NY-00200,NY-31660
 ny,Clinton/Franklin/Essex+Hamilton Counties 2010-2019,"Plattsburgh, NY Micro Area",NY-00200,NY-38460
 ny,Clinton/Franklin/Essex+Hamilton Counties 2010-2019,"Utica-Rome, NY",NY-00200,NY-46540
@@ -2604,7 +2604,7 @@ ny,Steuben (N+W)/Schuyler+Chemung (N) Counties 2010-2019,"Corning, NY Micro Area
 ny,Steuben (N+W)/Schuyler+Chemung (N) Counties 2010-2019,Elmira/NY,NY-02402,NY-21300
 ny,Cattaraugus+Allegany Counties 2010-2019,"Albany-Schenectady-Troy, NY",NY-02500,NY-10580
 ny,Cattaraugus+Allegany Counties 2010-2019,"Olean, NY Micro Area",NY-02500,NY-36460
-ny,Chautauqua County 2012-2019,,NY-02600,NY-27460
+ny,Chautauqua County 2012-2019,"Jamestown-Dunkirk-Fredonia, NY Micro Area",NY-02600,NY-27460
 ny,Broome County (W Central)-Greater Binghamton City+Greater Johnson City Village; Broome (Outer W)+Tioga Counties; Chenango/Delaware+Broome (E) Counties 2010-2011,"Binghamton, NY",NY-02601,NY-13780
 ny,Broome County (W Central)-Greater Binghamton City+Greater Johnson City Village; Broome (Outer W)+Tioga Counties 2010-2011,"Binghamton, NY",NY-02602,NY-13780
 ny,Wayne+Seneca Counties; Tompkins County; Chemung (S)+Steuben (E) Counties-Greater Elmira+Greater Corning Cities; Steuben (N+W)/Schuyler+Chemung (N) Counties 2010-2011,"Elmira, NY",NY-02700,NY-21300
@@ -2779,7 +2779,7 @@ oh,Lake County (E)-Mentor/Painesville Cities+Madison Village; Geauga+Lake (S) Co
 oh,Lake County (E)-Mentor/Painesville Cities+Madison Village; Geauga+Lake (S) Counties; Trumbull (Outside Warren City)+Mahoning (Outside Youngstown City) Counties; Portage County 2010-2011,"Akron, OH",OH-00703,OH-10420
 oh,Lake County (E)-Mentor/Painesville Cities+Madison Village; Geauga+Lake (S) Counties; Trumbull (Outside Warren City)+Mahoning (Outside Youngstown City) Counties; Portage County 2010-2011,"Cleveland-Elyria, OH",OH-00703,OH-17460
 oh,Lake County (E)-Mentor/Painesville Cities+Madison Village; Geauga+Lake (S) Counties; Trumbull (Outside Warren City)+Mahoning (Outside Youngstown City) Counties; Portage County 2010-2011,"Youngstown-Warren-Boardman, OH-PA",OH-00703,OH-49660
-oh,Ashtabula County 2010-2011,,OH-00800,OH-11780
+oh,Ashtabula County 2010-2011,"Ashtabula, OH Micro Area",OH-00800,OH-11780
 oh,Lorain County (N)-Elyria+Lorain Cities 2012-2019,Cleveland-Elyria/OH,OH-00801,OH-17460
 oh,Lorain County (S)-Avon/Avon Lake+N Ridgeville Cities 2012-2019,Cleveland-Elyria/OH,OH-00802,OH-17460
 oh,Cuyahoga County-Olmsted Township/Bay Village/N Olmsted+Westlake Cities 2010-2019,Cleveland-Elyria/OH,OH-00901,OH-17460
@@ -2993,7 +2993,7 @@ ok,Cleveland County-Norman/Oklahoma City (S)+Moore Cities; Oklahoma County (NE)-
 ok,Washington/Osage (N+W)/Pawnee+Creek (NW) Counties 2012-2019,"Bartlesville, OK Micro Area",OK-01601,OK-12780
 ok,Washington/Osage (N+W)/Pawnee+Creek (NW) Counties 2012-2019,Tulsa/OK,OK-01601,OK-46140
 ok,Panhandle+NW Oklahoma; Carter/Garvin/Murray/Love+Pontotoc (W) Counties; Canadian County-Oklahoma City (W); Cleveland County-Norman/Oklahoma City (S)+Moore Cities; Grady/McClain+Pottawatomie (S) Counties 2010-2011,"Oklahoma City, OK",OK-01700,OK-36420
-or,Umatilla/Union/Baker+Wallowa Counties 2010-2019,,OR-00100,OR-25840
+or,Umatilla/Union/Baker+Wallowa Counties 2010-2019,"Hermiston-Pendleton, OR Micro Area",OR-00100,OR-25840
 or,N Central Oregon-The Dalles City 2010-2019,"Bend-Redmond, OR",OR-00200,OR-13460
 or,N Central Oregon-The Dalles City 2010-2019,"Portland-Vancouver-Hillsboro, OR-WA",OR-00200,OR-38900
 or,Klamath/Malheur/Lake+Harney Counties 2010-2019,"Bend-Redmond, OR",OR-00300,OR-13460
@@ -3097,8 +3097,8 @@ pa,Venango/Jefferson/Clarion+Forest Counties 2010-2019,"State College, PA",PA-01
 pa,Venango/Jefferson/Clarion+Forest Counties 2010-2019,"Williamsport, PA",PA-01300,PA-48700
 pa,Venango/Jefferson/Clarion+Forest Counties 2010-2019,"Youngstown-Warren-Boardman, OH-PA",PA-01300,PA-49660
 pa,Mercer County 2010-2019,Youngstown-Warren-Boardman/OH-PA,PA-01400,PA-49660
-pa,Crawford+Warren Counties; Venango/Jefferson/Clarion+Forest Counties 2010-2011,,PA-01500,PA-32740
-pa,Crawford+Warren Counties; Venango/Jefferson/Clarion+Forest Counties 2010-2011,,PA-01500,PA-36340
+pa,Crawford+Warren Counties; Venango/Jefferson/Clarion+Forest Counties 2010-2011,"Meadville, PA Micro Area",PA-01500,PA-32740
+pa,Crawford+Warren Counties; Venango/Jefferson/Clarion+Forest Counties 2010-2011,"Oil City, PA Micro Area",PA-01500,PA-36340
 pa,Crawford+Warren Counties; Venango/Jefferson/Clarion+Forest Counties 2010-2011,,PA-01500,PA-47620
 pa,Lawrence+Beaver (N) Counties-New Castle City 2012-2019,"New Castle, PA Micro Area",PA-01501,PA-35260
 pa,Lawrence+Beaver (N) Counties-New Castle City 2012-2019,Pittsburgh/PA,PA-01501,PA-38300
@@ -3205,7 +3205,7 @@ pa,Adams+Franklin (SE) Counties 2010-2019,Chambersburg-Waynesboro/PA,PA-03701,PA
 pa,Adams+Franklin (SE) Counties 2010-2019,Gettysburg/PA,PA-03701,PA-23900
 pa,Franklin County (Outside Washington Township+Waynesboro Borough) 2010-2019,Chambersburg-Waynesboro/PA,PA-03702,PA-16540
 pa,Somerset/Bedford+Fulton Counties 2012-2019,"Johnstown, PA",PA-03800,PA-27780
-pa,Somerset/Bedford+Fulton Counties 2012-2019,,PA-03800,PA-43740
+pa,Somerset/Bedford+Fulton Counties 2012-2019,"Somerset, PA Micro Area",PA-03800,PA-43740
 pa,Lehigh County (South-Outside Allentown+Bethlehem Cities)-Emmaus Borough; Northampton (S)+Lehigh (E) Counties-Bethlehem (E)+Easton Cities; Northampton County (N) 2010-2011,"Allentown-Bethlehem-Easton, PA-NJ",PA-03801,PA-10900
 pa,Monroe County; Lehigh County (South-Outside Allentown+Bethlehem Cities)-Emmaus Borough; Northampton (S)+Lehigh (E) Counties-Bethlehem (E)+Easton Cities; Northampton County (N) 2010-2011,"Allentown-Bethlehem-Easton, PA-NJ",PA-03802,PA-10900
 pa,Monroe County; Lehigh County (South-Outside Allentown+Bethlehem Cities)-Emmaus Borough; Northampton (S)+Lehigh (E) Counties-Bethlehem (E)+Easton Cities; Northampton County (N) 2010-2011,"East Stroudsburg, PA",PA-03802,PA-20700
@@ -3247,8 +3247,8 @@ pr,Aguadilla/Isabela+Quebradillas Municipios-Carr 2 (Noroeste) 2012-2019,Aguadil
 pr,Aguadilla/Isabela+Quebradillas Municipios-Carr 2 (Noroeste) 2012-2019,Arecibo/PR,PR-00102,PR-11640
 pr,Aguadilla/Isabela+Quebradillas Municipios-Carr 2 (Noroeste); Hatillo/Camuy/Utuado+Lares Municipios-Carr 2-Carr 129 2010-2011,"Aguadilla-Isabela, PR",PR-00200,PR-10380
 pr,Aguadilla/Isabela+Quebradillas Municipios-Carr 2 (Noroeste); Hatillo/Camuy/Utuado+Lares Municipios-Carr 2-Carr 129 2010-2011,"Arecibo, PR",PR-00200,PR-11640
-pr,Cabo Rojo/San German/Lajas+Sabana Grande Municipios-Carr 2-Carr 100 2012-2019,San Germðn/PR,PR-00201,PR-41900
-pr,Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste) 2012-2019,Mayagðez/PR,PR-00202,PR-32420
+pr,Cabo Rojo/San German/Lajas+Sabana Grande Municipios-Carr 2-Carr 100 2012-2019,San Germï£¿n/PR,PR-00201,PR-41900
+pr,Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste) 2012-2019,Mayagï£¿ez/PR,PR-00202,PR-32420
 pr,Arecibo/Barceloneta+Florida Municipios-Carr 2 (Norte); Vega Baja/Manati/Morovis+Ciales Municipios-Carr 137-Carr 149 2010-2011,"Arecibo, PR",PR-00300,PR-11640
 pr,Arecibo/Barceloneta+Florida Municipios-Carr 2 (Norte); Vega Baja/Manati/Morovis+Ciales Municipios-Carr 137-Carr 149 2010-2011,"San Juan-Carolina-Caguas, PR",PR-00300,PR-41980
 pr,Arecibo/Barceloneta+Florida Municipios-Carr 2 (Norte) 2012-2019,Arecibo/PR,PR-00301,PR-11640
@@ -3299,16 +3299,16 @@ pr,Juana Diaz/Coamo/Villalba+Santa Isabel Municipios-Carr 52-Carr 150; Corozal/N
 pr,San Sebastian/Aguada/Moca/Anasco+Rincon Municipios-Carr 2-Carr 111; Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur); Ponce+Jayuya Municipios; Juana Diaz/Coamo/Villalba+Santa Isabel Municipios-Carr 52-Carr 150; Toa Baja+Dorado Municipios 2010-2011,"Aguadilla-Isabela, PR",PR-01800,PR-10380
 pr,San Sebastian/Aguada/Moca/Anasco+Rincon Municipios-Carr 2-Carr 111; Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur); Ponce+Jayuya Municipios; Juana Diaz/Coamo/Villalba+Santa Isabel Municipios-Carr 52-Carr 150; Toa Baja+Dorado Municipios 2010-2011,"Ponce, PR",PR-01800,PR-38660
 pr,San Sebastian/Aguada/Moca/Anasco+Rincon Municipios-Carr 2-Carr 111; Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur); Ponce+Jayuya Municipios; Juana Diaz/Coamo/Villalba+Santa Isabel Municipios-Carr 52-Carr 150; Toa Baja+Dorado Municipios 2010-2011,"San Juan-Carolina-Caguas, PR",PR-01800,PR-41980
-pr,Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste); Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur) 2010-2011,"Mayagðez, PR",PR-01900,PR-32420
+pr,Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste); Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur) 2010-2011,"Mayagï£¿ez, PR",PR-01900,PR-32420
 pr,Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste); Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur) 2010-2011,"Ponce, PR",PR-01900,PR-38660
-pr,Cabo Rojo/San German/Lajas+Sabana Grande Municipios-Carr 2-Carr 100; Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste); Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur) 2010-2011,"Mayagðez, PR",PR-02000,PR-32420
+pr,Cabo Rojo/San German/Lajas+Sabana Grande Municipios-Carr 2-Carr 100; Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste); Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur) 2010-2011,"Mayagï£¿ez, PR",PR-02000,PR-32420
 pr,Cabo Rojo/San German/Lajas+Sabana Grande Municipios-Carr 2-Carr 100; Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste); Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur) 2010-2011,"Ponce, PR",PR-02000,PR-38660
-pr,Cabo Rojo/San German/Lajas+Sabana Grande Municipios-Carr 2-Carr 100; Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste); Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur) 2010-2011,"San Germðn, PR",PR-02000,PR-41900
+pr,Cabo Rojo/San German/Lajas+Sabana Grande Municipios-Carr 2-Carr 100; Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste); Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur) 2010-2011,"San Germï£¿n, PR",PR-02000,PR-41900
 pr,San Sebastian/Aguada/Moca/Anasco+Rincon Municipios-Carr 2-Carr 111; Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste) 2010-2011,"Aguadilla-Isabela, PR",PR-02100,PR-10380
-pr,San Sebastian/Aguada/Moca/Anasco+Rincon Municipios-Carr 2-Carr 111; Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste) 2010-2011,"Mayagðez, PR",PR-02100,PR-32420
+pr,San Sebastian/Aguada/Moca/Anasco+Rincon Municipios-Carr 2-Carr 111; Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste) 2010-2011,"Mayagï£¿ez, PR",PR-02100,PR-32420
 pr,San Sebastian/Aguada/Moca/Anasco+Rincon Municipios-Carr 2-Carr 111; Aguadilla/Isabela+Quebradillas Municipios-Carr 2 (Noroeste); Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste); Hatillo/Camuy/Utuado+Lares Municipios-Carr 2-Carr 129; Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur); Ponce+Jayuya Municipios 2010-2011,"Aguadilla-Isabela, PR",PR-02200,PR-10380
 pr,San Sebastian/Aguada/Moca/Anasco+Rincon Municipios-Carr 2-Carr 111; Aguadilla/Isabela+Quebradillas Municipios-Carr 2 (Noroeste); Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste); Hatillo/Camuy/Utuado+Lares Municipios-Carr 2-Carr 129; Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur); Ponce+Jayuya Municipios 2010-2011,"Arecibo, PR",PR-02200,PR-11640
-pr,San Sebastian/Aguada/Moca/Anasco+Rincon Municipios-Carr 2-Carr 111; Aguadilla/Isabela+Quebradillas Municipios-Carr 2 (Noroeste); Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste); Hatillo/Camuy/Utuado+Lares Municipios-Carr 2-Carr 129; Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur); Ponce+Jayuya Municipios 2010-2011,"Mayagðez, PR",PR-02200,PR-32420
+pr,San Sebastian/Aguada/Moca/Anasco+Rincon Municipios-Carr 2-Carr 111; Aguadilla/Isabela+Quebradillas Municipios-Carr 2 (Noroeste); Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste); Hatillo/Camuy/Utuado+Lares Municipios-Carr 2-Carr 129; Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur); Ponce+Jayuya Municipios 2010-2011,"Mayagï£¿ez, PR",PR-02200,PR-32420
 pr,San Sebastian/Aguada/Moca/Anasco+Rincon Municipios-Carr 2-Carr 111; Aguadilla/Isabela+Quebradillas Municipios-Carr 2 (Noroeste); Mayaguez/Hormigueros/Las Marias+Maricao Municipios-Carr 2 (Suroeste); Hatillo/Camuy/Utuado+Lares Municipios-Carr 2-Carr 129; Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur); Ponce+Jayuya Municipios 2010-2011,"Ponce, PR",PR-02200,PR-38660
 pr,Hatillo/Camuy/Utuado+Lares Municipios-Carr 2-Carr 129; Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur); Ponce+Jayuya Municipios; Juana Diaz/Coamo/Villalba+Santa Isabel Municipios-Carr 52-Carr 150; Vega Baja/Manati/Morovis+Ciales Municipios-Carr 137-Carr 149; Corozal/Naranjito/Barranquitas/Orocovis+Comerio Municipios-Carr 156-Carr 164; Cayey/Cidra/Aguas Buenas+Aibonito Municipios-Carr 14-Carr 173 2010-2011,"Aguadilla-Isabela, PR",PR-02300,PR-10380
 pr,Hatillo/Camuy/Utuado+Lares Municipios-Carr 2-Carr 129; Yauco/Penuelas/Guayanilla/Adjuntas+Guanica Municipios-Carr 2 (Sur); Ponce+Jayuya Municipios; Juana Diaz/Coamo/Villalba+Santa Isabel Municipios-Carr 52-Carr 150; Vega Baja/Manati/Morovis+Ciales Municipios-Carr 137-Carr 149; Corozal/Naranjito/Barranquitas/Orocovis+Comerio Municipios-Carr 156-Carr 164; Cayey/Cidra/Aguas Buenas+Aibonito Municipios-Carr 14-Carr 173 2010-2011,"Arecibo, PR",PR-02300,PR-11640
@@ -3904,8 +3904,8 @@ va,Southside Planning District Commission+Commonwealth Regional Council; New Riv
 va,Virginia's Region 2000 (N)-Bedford/Amherst/Appomattox Counties+Bedford City; Virginia's Region 2000 (S)-Campbell County+Lynchburg City; Southside Planning District Commission+Commonwealth Regional Council; Hanover/Powhatan/Goochland/New Kent/King William+Charles City Counties 2010-2011,"Charlottesville, VA",VA-03400,VA-16820
 va,Virginia's Region 2000 (N)-Bedford/Amherst/Appomattox Counties+Bedford City; Virginia's Region 2000 (S)-Campbell County+Lynchburg City; Southside Planning District Commission+Commonwealth Regional Council; Hanover/Powhatan/Goochland/New Kent/King William+Charles City Counties 2010-2011,"Lynchburg, VA",VA-03400,VA-31340
 va,Virginia's Region 2000 (N)-Bedford/Amherst/Appomattox Counties+Bedford City; Virginia's Region 2000 (S)-Campbell County+Lynchburg City; Southside Planning District Commission+Commonwealth Regional Council; Hanover/Powhatan/Goochland/New Kent/King William+Charles City Counties 2010-2011,"Richmond, VA",VA-03400,VA-40060
-va,W Piedmont Planning District Commission 2010-2011,,VA-03500,VA-19260
-va,W Piedmont Planning District Commission 2010-2011,,VA-03500,VA-32300
+va,W Piedmont Planning District Commission 2010-2011,"Danville, VA Micro Area",VA-03500,VA-19260
+va,W Piedmont Planning District Commission 2010-2011,"Martinsville, VA Micro Area",VA-03500,VA-32300
 va,Chesterfield County (E)-James River Region 2012-2019,Richmond/VA,VA-04101,VA-40060
 va,Chesterfield County (Central)-Chester+Rockwood 2012-2019,Richmond/VA,VA-04102,VA-40060
 va,Chesterfield County (W)-Brandermill+Woodlake 2012-2019,Richmond/VA,VA-04103,VA-40060
@@ -3926,8 +3926,8 @@ va,Thomas Jefferson Planning District Commission (S+E) 2012-2019,Charlottesville
 va,Thomas Jefferson Planning District Commission (N) 2012-2019,Charlottesville/VA,VA-51090,VA-16820
 va,Virginia's Region 2000 (N)-Bedford/Amherst/Appomattox Counties+Bedford City 2012-2019,Lynchburg/VA,VA-51095,VA-31340
 va,Virginia's Region 2000 (S)-Campbell County+Lynchburg City 2012-2019,Lynchburg/VA,VA-51096,VA-31340
-va,W Piedmont Planning District Commission 2012-2019,,VA-51097,VA-19260
-va,W Piedmont Planning District Commission 2012-2019,,VA-51097,VA-32300
+va,W Piedmont Planning District Commission 2012-2019,"Danville, VA Micro Area",VA-51097,VA-19260
+va,W Piedmont Planning District Commission 2012-2019,"Martinsville, VA Micro Area",VA-51097,VA-32300
 va,Southside Planning District Commission+Commonwealth Regional Council 2012-2019,Charlottesville/VA,VA-51105,VA-16820
 va,Southside Planning District Commission+Commonwealth Regional Council 2012-2019,Richmond/VA,VA-51105,VA-40060
 va,Central Shenandoah Planning District Commission (NE) 2012-2019,Harrisonburg/VA,VA-51110,VA-25500
@@ -4020,9 +4020,9 @@ wa,Yakima County (Outer)-Sunnyside+Grandview Cities; Lewis/Klickitat+Skamania Co
 wa,Yakima County (Outer)-Sunnyside+Grandview Cities; Lewis/Klickitat+Skamania Counties; Cowlitz/Pacific+Wahkiakum Counties; Grays Harbor+Mason Counties; Thurston County (Outer) 2010-2011,"Olympia-Tumwater, WA",WA-01500,WA-36500
 wa,Yakima County (Outer)-Sunnyside+Grandview Cities; Lewis/Klickitat+Skamania Counties; Cowlitz/Pacific+Wahkiakum Counties; Grays Harbor+Mason Counties; Thurston County (Outer) 2010-2011,"Portland-Vancouver-Hillsboro, OR-WA",WA-01500,WA-38900
 wa,Yakima County (Outer)-Sunnyside+Grandview Cities; Lewis/Klickitat+Skamania Counties; Cowlitz/Pacific+Wahkiakum Counties; Grays Harbor+Mason Counties; Thurston County (Outer) 2010-2011,"Yakima, WA",WA-01500,WA-49420
-wa,Grays Harbor+Mason Counties; Clallam+Jefferson Counties 2010-2011,,WA-01600,WA-10140
-wa,Grays Harbor+Mason Counties; Clallam+Jefferson Counties 2010-2011,,WA-01600,WA-38820
-wa,Grays Harbor+Mason Counties; Clallam+Jefferson Counties 2010-2011,,WA-01600,WA-43220
+wa,Grays Harbor+Mason Counties; Clallam+Jefferson Counties 2010-2011,"Aberdeen, WA Micro Area",WA-01600,WA-10140
+wa,Grays Harbor+Mason Counties; Clallam+Jefferson Counties 2010-2011,"Port Angeles, WA Micro Area",WA-01600,WA-38820
+wa,Grays Harbor+Mason Counties; Clallam+Jefferson Counties 2010-2011,"Shelton, WA Micro Area",WA-01600,WA-43220
 wa,Kitsap County (N)-Bainbridge Island City+Silverdale 2010-2011,"Bremerton-Silverdale, WA",WA-01701,WA-14740
 wa,Grays Harbor+Mason Counties; Pierce County (NW)-Peninsula Region+Tacoma City (W); Kitsap County (S)-Bremerton+Port Orchard Cities 2010-2011,"Bremerton-Silverdale, WA",WA-01702,WA-14740
 wa,Grays Harbor+Mason Counties; Pierce County (NW)-Peninsula Region+Tacoma City (W); Kitsap County (S)-Bremerton+Port Orchard Cities 2010-2011,"Seattle-Tacoma-Bellevue, WA",WA-01702,WA-42660
@@ -4059,7 +4059,7 @@ wa,Benton+Franklin Counties-Pasco/Richland (N)+W Richland Cities 2012-2019,Kenne
 wa,Benton County (E Central)-Kennewick+Richland (S) Cities 2012-2019,Kennewick-Richland/WA,WA-10702,WA-28420
 wa,Walla Walla/Benton (Outer)+Franklin (Outer) Counties 2012-2019,Kennewick-Richland/WA,WA-10703,WA-28420
 wa,Walla Walla/Benton (Outer)+Franklin (Outer) Counties 2012-2019,Walla Walla/WA,WA-10703,WA-47460
-wa,Grant+Kittitas Counties 2012-2019,,WA-10800,WA-21260
+wa,Grant+Kittitas Counties 2012-2019,"Ellensburg, WA MISA",WA-10800,WA-21260
 wa,Grant+Kittitas Counties 2012-2019,"Moses Lake, WA Micro Area",WA-10800,WA-34180
 wa,Yakima County (Central)-Greater Yakima City 2012-2019,Yakima/WA,WA-10901,WA-49420
 wa,Yakima County (Outer)-Sunnyside+Grandview Cities 2012-2019,Yakima/WA,WA-10902,WA-49420
@@ -4070,8 +4070,8 @@ wa,Clark County (W Central)-Salmon Creek+Hazel Dell 2012-2019,Portland-Vancouver
 wa,Clark County (SE)-Vancouver (E)/Camas+Washougal Cities 2012-2019,Portland-Vancouver-Hillsboro/OR-WA,WA-11103,WA-38900
 wa,Clark County (N)-Battle Ground City+Orchards 2012-2019,Portland-Vancouver-Hillsboro/OR-WA,WA-11104,WA-38900
 wa,Cowlitz/Pacific+Wahkiakum Counties 2012-2019,Longview/WA,WA-11200,WA-31020
-wa,Grays Harbor+Mason Counties 2012-2019,,WA-11300,WA-10140
-wa,Grays Harbor+Mason Counties 2012-2019,,WA-11300,WA-43220
+wa,Grays Harbor+Mason Counties 2012-2019,"Aberdeen, WA Micro Area",WA-11300,WA-10140
+wa,Grays Harbor+Mason Counties 2012-2019,"Shelton, WA Micro Area",WA-11300,WA-43220
 wa,Thurston County (Central)-Olympia/Lacey+Tumwater Cities 2012-2019,Olympia-Tumwater/WA,WA-11401,WA-36500
 wa,Thurston County (Outer) 2012-2019,"Centralia, WA Micro Area",WA-11402,WA-16500
 wa,Thurston County (Outer) 2012-2019,Olympia-Tumwater/WA,WA-11402,WA-36500
@@ -4106,7 +4106,7 @@ wa,Snohomish County (Central+SE)-Lake Stevens+Monroe Cities 2012-2019,Seattle-Ta
 wa,Snohomish County (N)-Marysville+Arlington Cities 2012-2019,Seattle-Tacoma-Bellevue/WA,WA-11706,WA-42660
 wa,Kitsap County (N)-Bainbridge Island City+Silverdale 2012-2019,Bremerton-Silverdale/WA,WA-11801,WA-14740
 wa,Kitsap County (S)-Bremerton+Port Orchard Cities 2012-2019,Bremerton-Silverdale/WA,WA-11802,WA-14740
-wa,Clallam+Jefferson Counties 2012-2019,,WA-11900,WA-38820
+wa,Clallam+Jefferson Counties 2012-2019,"Port Angeles, WA Micro Area",WA-11900,WA-38820
 wi,NW Wisconsin 2010-2019,Duluth/MN-WI,WI-00100,WI-20260
 wi,Madison City (Central) 2012-2019,Madison/WI,WI-00101,WI-31540
 wi,Dane County (E) 2012-2019,Madison/WI,WI-00102,WI-31540
@@ -4143,8 +4143,8 @@ wi,Central Sands-Wood/Portage/Juneau+Adams Counties 2012-2019,"Madison, WI",WI-0
 wi,Central Sands-Wood/Portage/Juneau+Adams Counties 2012-2019,"Minneapolis-St. Paul-Bloomington, MN-WI",WI-01601,WI-33460
 wi,Central Sands-Wood/Portage/Juneau+Adams Counties 2012-2019,"Stevens Point, WI Micro Area",WI-01601,WI-44620
 wi,Central Sands-Wood/Portage/Juneau+Adams Counties 2012-2019,"Wisconsin Rapids-Marshfield, WI Micro Area",WI-01601,WI-49220
-wi,Dodge+Jefferson Counties; Walworth County 2010-2011,,WI-01700,WI-48020
-wi,Dodge+Jefferson Counties; Walworth County 2010-2011,,WI-01700,WI-48580
+wi,Dodge+Jefferson Counties; Walworth County 2010-2011,"Watertown-Fort Atkinson, WI Micro Area",WI-01700,WI-48020
+wi,Dodge+Jefferson Counties; Walworth County 2010-2011,"Whitewater-Elkhorn, WI Micro Area",WI-01700,WI-48580
 wi,Kenosha County 2010-2011,"Chicago-Naperville-Elgin, IL-IN-WI",WI-01800,WI-16980
 wi,Racine County 2010-2011,"Racine, WI",WI-01900,WI-39540
 wi,Washington+Ozaukee Counties; Milwaukee County (NE); Milwaukee County (W); Milwaukee City (N); Milwaukee City (N Central); Milwaukee City (Central); Waukesha County (E) 2010-2011,"Milwaukee-Waukesha-West Allis, WI",WI-02001,WI-33340
@@ -4170,7 +4170,7 @@ wi,Milwaukee City (N Central) 2012-2019,Milwaukee-Waukesha-W Allis/WI,WI-41002,W
 wi,Milwaukee City (Central) 2012-2019,Milwaukee-Waukesha-W Allis/WI,WI-41003,WI-33340
 wi,Milwaukee City (S Central) 2012-2019,Milwaukee-Waukesha-W Allis/WI,WI-41004,WI-33340
 wi,Milwaukee City (S) 2012-2019,Milwaukee-Waukesha-W Allis/WI,WI-41005,WI-33340
-wi,Walworth County 2012-2019,,WI-50000,WI-48580
+wi,Walworth County 2012-2019,"Whitewater-Elkhorn, WI Micro Area",WI-50000,WI-48580
 wi,Barron/Polk/Clark+Chippewa (N) Counties 2012-2019,Eau Claire/WI,WI-55101,WI-20740
 wi,Barron/Polk/Clark+Chippewa (N) Counties 2012-2019,"Wisconsin Rapids-Marshfield, WI Micro Area",WI-55101,WI-49220
 wi,St Croix+Dunn Counties 2012-2019,Minneapolis-St Paul-Bloomington/MN-WI,WI-55102,WI-33460
